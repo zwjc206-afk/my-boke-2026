@@ -13,3 +13,7 @@ python3 -m http.server 4173
 ## 日常维护
 
 维护方式见 [docs/维护说明.md](docs/维护说明.md)。
+
+## 上线
+
+GitHub Pages 上线链路见 [docs/上线链路.md](docs/上线链路.md)。

@@ -1,0 +1,38 @@
+name: Update daily AI news
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Update AI news
+        run: node scripts/update-ai-news.mjs
+
+      - name: Commit updated news
+        run: |
+          if git diff --quiet -- content/news.generated.json; then
+            echo "No AI news changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/news.generated.json
+          git commit -m "Update daily AI news"
+          git push
