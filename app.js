@@ -5,6 +5,7 @@ const copy = {
     navInsights: "AI资讯",
     navContact: "合作咨询",
     heroEyebrow: "AI专业导师 / 企业增长顾问",
+    heroManifesto: "AI一天 人间一年",
     heroTitle: "周威俊",
     heroKicker: "把 AI 从热点，变成企业增长系统。",
     heroBody:
@@ -38,6 +39,7 @@ const copy = {
     navInsights: "AI Radar",
     navContact: "Contact",
     heroEyebrow: "AI Professional Mentor / Enterprise Growth Advisor",
+    heroManifesto: "One AI day equals a human year.",
     heroTitle: "Zhou Weijun",
     heroKicker: "Turning AI from headline into business growth systems.",
     heroBody:
