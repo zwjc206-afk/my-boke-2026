@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-05-08T04:14:42.133Z",
+  "sources": [
+    {
+      "source": "OpenAI",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "source": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/feed/"
+    },
+    {
+      "source": "Microsoft AI",
+      "url": "https://www.microsoft.com/en-us/ai/blog/rss"
+    }
+  ],
+  "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA 参与美国能源部 Genesis Mission AI 项目",
+      "titleEn": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
+      "date": "2026-05-07",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-",
+      "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2019/06/DC-skyline.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 扩展 GPT-5.5 网络安全可信访问能力",
+      "titleEn": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and pro",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 发布服务智能体客户案例",
+      "titleEn": "Parloa builds service agents customers want to talk to",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and dep",
+      "url": "https://openai.com/index/parloa",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI API 推出新一代语音智能模型",
+      "titleEn": "Advancing voice intelligence with new models in the API",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT 引入可信联系人功能",
+      "titleEn": "Introducing Trusted Contact in ChatGPT",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detecte",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 开始测试 ChatGPT 广告形态",
+      "titleEn": "Testing ads in ChatGPT",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user ",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Simplex rethinks software development with Codex",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven work",
+      "url": "https://openai.com/index/simplex",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google 用 AI 帮助用户规划家庭花园",
+      "titleEn": "5 gardening tips you can try right in Search",
+      "date": "2026-05-06",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "date": "2026-05-06",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Introducing ChatGPT Futures: Class of 2026",
+      "date": "2026-05-06",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this gen",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "How frontier firms are pulling ahead",
+      "date": "2026-05-06",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable co",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "date": "2026-05-06",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, por",
+      "url": "https://openai.com/index/singular-bank",
+      "image": "public/assets/images/news-openai.jpg"
+    }
+  ]
+}

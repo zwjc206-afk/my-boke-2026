@@ -1,0 +1,246 @@
+{
+  "profile": {
+    "name": "周威俊",
+    "nameEn": "Zhou Weijun",
+    "role": "AI专业导师 / 企业数字化增长顾问 / CIO",
+    "roleEn": "AI Professional Mentor / Enterprise Growth Advisor / CIO"
+  },
+  "proof": [
+    {
+      "value": "AI",
+      "label": "企业培训与落地咨询",
+      "labelEn": "Enterprise training and implementation"
+    },
+    {
+      "value": "30+",
+      "label": "短视频内容生产方法论",
+      "labelEn": "Short-form content production system"
+    },
+    {
+      "value": "B2B",
+      "label": "面向老板、经销商与业务团队",
+      "labelEn": "For owners, dealers, and business teams"
+    }
+  ],
+  "expertise": [
+    {
+      "title": "AI战略认知",
+      "titleEn": "AI Strategy",
+      "body": "帮助企业负责人看懂AI趋势，判断哪些投入能产生经营结果。",
+      "bodyEn": "Helping leaders turn AI trends into practical investment decisions."
+    },
+    {
+      "title": "短视频矩阵获客",
+      "titleEn": "Video Growth System",
+      "body": "把脚本、数字人、拍摄、剪辑、发布与线索回收做成可复制流程。",
+      "bodyEn": "Building repeatable systems for scripts, avatars, editing, publishing, and lead capture."
+    },
+    {
+      "title": "企业智能体工作流",
+      "titleEn": "Agent Workflows",
+      "body": "围绕客户跟进、内容审核、培训交付和数据复盘设计半自动化流程。",
+      "bodyEn": "Designing agent workflows for customer follow-up, content review, training, and reporting."
+    }
+  ],
+  "partners": [
+    {
+      "name": "钜豪照明",
+      "nameEn": "JUHAO Lighting",
+      "logo": "public/assets/logos/juhao.png"
+    },
+    {
+      "name": "慧立康美业",
+      "nameEn": "Huilikang Beauty"
+    },
+    {
+      "name": "肆拾玖坊酒业",
+      "nameEn": "Shisijiu Fang",
+      "logo": "public/assets/logos/shisijiu.png"
+    },
+    {
+      "name": "东鹏陶瓷",
+      "nameEn": "DONGPENG Ceramics"
+    },
+    {
+      "name": "QD瓷砖",
+      "nameEn": "QD Tiles"
+    },
+    {
+      "name": "蒙娜丽莎瓷砖",
+      "nameEn": "Monalisa Tiles"
+    },
+    {
+      "name": "金意陶陶瓷",
+      "nameEn": "KITO Ceramics"
+    },
+    {
+      "name": "阿里云",
+      "nameEn": "Alibaba Cloud",
+      "logo": "public/assets/logos/aliyun.png"
+    },
+    {
+      "name": "华为云",
+      "nameEn": "Huawei Cloud"
+    },
+    {
+      "name": "腾讯云",
+      "nameEn": "Tencent Cloud"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "public/assets/images/visual-trust-content-system.jpg",
+      "caption": "AI内容工厂：脚本、数字人、剪辑、发布与线索回收",
+      "captionEn": "AI content factory: scripts, avatars, editing, publishing, and lead capture"
+    },
+    {
+      "image": "public/assets/images/visual-trust-growth-map.jpg",
+      "caption": "企业AI增长路径：从课程到业务结果",
+      "captionEn": "Enterprise AI growth map: from training to business outcomes"
+    },
+    {
+      "image": "public/assets/images/visual-trust-training.jpg",
+      "caption": "课程现场方法论：诊断、流程、交付、复盘",
+      "captionEn": "Training methodology: diagnose, design, deliver, and review"
+    }
+  ],
+  "videos": [
+    {
+      "title": "实拍讲课片段 01",
+      "titleEn": "Live Teaching Clip 01",
+      "category": "现场讲课",
+      "categoryEn": "Live Teaching",
+      "date": "2026-05-08",
+      "duration": "102s",
+      "src": "public/assets/videos/compressed/live-teaching-01.m4v",
+      "poster": "public/assets/images/visual-trust-training.jpg",
+      "summary": "从你本机实拍素材压缩成网页版本，展示真实讲课状态与表达方式。",
+      "summaryEn": "Compressed from local live footage to show real teaching presence and delivery."
+    },
+    {
+      "title": "实拍讲课片段 02",
+      "titleEn": "Live Teaching Clip 02",
+      "category": "现场讲课",
+      "categoryEn": "Live Teaching",
+      "date": "2026-05-08",
+      "duration": "78s",
+      "src": "public/assets/videos/compressed/live-teaching-02.m4v",
+      "poster": "public/assets/images/visual-trust-content-system.jpg",
+      "summary": "适合客户快速判断你的授课节奏、镜头表现和专业可信度。",
+      "summaryEn": "Lets clients quickly evaluate teaching rhythm, camera presence, and credibility."
+    },
+    {
+      "title": "实拍讲课片段 03",
+      "titleEn": "Live Teaching Clip 03",
+      "category": "培训片段",
+      "categoryEn": "Training Clip",
+      "date": "2026-05-08",
+      "duration": "85s",
+      "src": "public/assets/videos/compressed/live-teaching-03.m4v",
+      "poster": "public/assets/images/visual-trust-growth-map.jpg",
+      "summary": "用于展示企业培训、门店获客和AI工具落地的讲解能力。",
+      "summaryEn": "Shows training capability for AI tools, retail growth, and enterprise implementation."
+    },
+    {
+      "title": "实拍讲课片段 04",
+      "titleEn": "Live Teaching Clip 04",
+      "category": "培训片段",
+      "categoryEn": "Training Clip",
+      "date": "2026-05-08",
+      "duration": "83s",
+      "src": "public/assets/videos/compressed/live-teaching-04.m4v",
+      "poster": "public/assets/images/visual-trust-training.jpg",
+      "summary": "压缩后的网页版本，保留竖版短视频观看体验。",
+      "summaryEn": "A compressed web version while keeping the vertical short-video experience."
+    },
+    {
+      "title": "AI医疗教学素材",
+      "titleEn": "AI Healthcare Teaching Material",
+      "category": "AI案例演示",
+      "categoryEn": "AI Case Demo",
+      "date": "2026-05-08",
+      "duration": "91s",
+      "src": "public/assets/videos/compressed/ai-medical-lesson.m4v",
+      "poster": "public/assets/images/visual-trust-content-system.jpg",
+      "summary": "展示AI行业案例讲解方式，适合补充课程专业性与案例广度。",
+      "summaryEn": "Shows how industry AI cases are explained and expands the professional case library."
+    }
+  ],
+  "articles": [
+    {
+      "title": "AI不再是工具，是门店获客生产线",
+      "titleEn": "AI Is No Longer a Tool. It Is a Growth Line.",
+      "date": "2026-05-08",
+      "tag": "增长系统",
+      "tagEn": "Growth System",
+      "summary": "真正的AI落地不是追热点，而是把脚本、出镜、剪辑、分发和线索回收做成稳定流程。",
+      "summaryEn": "Practical AI adoption means turning scripts, filming, editing, publishing, and lead capture into one system.",
+      "link": "#contact"
+    },
+    {
+      "title": "照明行业不用AI，未来3年会发生什么",
+      "titleEn": "What Happens If Lighting Retail Ignores AI",
+      "date": "2026-05-08",
+      "tag": "行业观点",
+      "tagEn": "Industry POV",
+      "summary": "门店的竞争正在从位置与导购，转向内容能力、数据能力和AI执行能力。",
+      "summaryEn": "Retail competition is shifting from location and sales scripts to content, data, and AI execution.",
+      "link": "#contact"
+    },
+    {
+      "title": "视频AI的真拐点：可控、可复用、可规模化",
+      "titleEn": "The Real Video-AI Shift: Control and Scale",
+      "date": "2026-05-08",
+      "tag": "视频AI",
+      "tagEn": "Video AI",
+      "summary": "对企业内容工厂来说，一致性比炫技更值钱；模板化比单条爆款更接近增长。",
+      "summaryEn": "For enterprise content teams, consistency and templates are more valuable than isolated viral clips.",
+      "link": "#contact"
+    }
+  ],
+  "fallbackNews": {
+    "generatedAt": "2026-05-08T09:00:00+08:00",
+    "items": [
+      {
+        "source": "IBM Newsroom",
+        "title": "IBM发布下一代 watsonx Orchestrate，强调企业级AI编排",
+        "titleEn": "IBM introduces next-generation watsonx Orchestrate for enterprise AI orchestration",
+        "date": "2026-05-05",
+        "summary": "企业AI正在从单点工具走向多智能体协同、流程治理和可审计的运营模型。",
+        "summaryEn": "Enterprise AI is moving from standalone tools toward orchestrated agents, governance, and auditable operating models.",
+        "url": "https://newsroom.ibm.com/2026-05-05-Think-2026-IBM-Delivers-the-Blueprint-for-the-AI-Operating-Model-as-the-AI-Divide-Widens",
+        "image": "public/assets/images/news-ai-default.jpg"
+      },
+      {
+        "source": "Google Cloud / ITPro",
+        "title": "企业平台继续整合Agent部署、运行和注册能力",
+        "titleEn": "Enterprise platforms keep consolidating agent deployment and runtime capabilities",
+        "date": "2026-04-30",
+        "summary": "内容生产、审核、发布和客户跟进会越来越适合被设计成半自动化工作流。",
+        "summaryEn": "Content production, review, publishing, and customer follow-up are becoming natural agent workflow candidates.",
+        "url": "https://www.itpro.com/technology/artificial-intelligence/google-expands-gemini-enterprise-consolidates-vertex-ai-services-to-simplify-agent-deployment",
+        "image": "public/assets/images/news-ai-default.jpg"
+      },
+      {
+        "source": "Sony AI",
+        "title": "视频生成研究走向可控运镜与场景一致性",
+        "titleEn": "Video generation research moves toward camera control and scene consistency",
+        "date": "2026-05-08",
+        "summary": "对短视频矩阵来说，角色、镜头和风格一致性会决定规模化交付质量。",
+        "summaryEn": "For video operations, consistent characters, shots, and style will define scalable quality.",
+        "url": "https://ai.sony/publications/3D-Scene-Prompting-for-Scene-Consistent-Camera-Controllable-Video-Generation/",
+        "image": "public/assets/images/news-ai-default.jpg"
+      },
+      {
+        "source": "Collibra",
+        "title": "AI治理成为企业规模化使用Agent的前提",
+        "titleEn": "AI governance becomes a prerequisite for scaling agents",
+        "date": "2026-05-08",
+        "summary": "矩阵内容越多，越需要统一口径、权限、审核和风险追踪。",
+        "summaryEn": "The more content a brand publishes, the more it needs consistent messaging, permissions, review, and risk tracking.",
+        "url": "https://www.collibra.com/products/ai-governance",
+        "image": "public/assets/images/news-ai-default.jpg"
+      }
+    ]
+  }
+}
