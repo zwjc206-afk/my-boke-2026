@@ -50,7 +50,8 @@
     },
     {
       "name": "慧立康美业",
-      "nameEn": "Huilikang Beauty"
+      "nameEn": "Huilikang Beauty",
+      "logo": "public/assets/logos/huilikang.png"
     },
     {
       "name": "肆拾玖坊酒业",
@@ -59,19 +60,28 @@
     },
     {
       "name": "东鹏陶瓷",
-      "nameEn": "DONGPENG Ceramics"
+      "nameEn": "DONGPENG Ceramics",
+      "logo": "public/assets/logos/dongpeng.png"
     },
     {
       "name": "QD瓷砖",
-      "nameEn": "QD Tiles"
+      "nameEn": "QD Tiles",
+      "logo": "public/assets/logos/qd.png"
     },
     {
       "name": "蒙娜丽莎瓷砖",
-      "nameEn": "Monalisa Tiles"
+      "nameEn": "Monalisa Tiles",
+      "logo": "public/assets/logos/monalisa.png"
     },
     {
       "name": "金意陶陶瓷",
-      "nameEn": "KITO Ceramics"
+      "nameEn": "KITO Ceramics",
+      "logo": "public/assets/logos/kito.png"
+    },
+    {
+      "name": "马可波罗陶瓷",
+      "nameEn": "Marco Polo Ceramics",
+      "logo": "public/assets/logos/marcopolo.png"
     },
     {
       "name": "阿里云",
@@ -80,11 +90,13 @@
     },
     {
       "name": "华为云",
-      "nameEn": "Huawei Cloud"
+      "nameEn": "Huawei Cloud",
+      "logo": "public/assets/logos/huaweicloud.png"
     },
     {
       "name": "腾讯云",
-      "nameEn": "Tencent Cloud"
+      "nameEn": "Tencent Cloud",
+      "logo": "public/assets/logos/tencentcloud.png"
     }
   ],
   "gallery": [
