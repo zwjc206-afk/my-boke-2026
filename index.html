@@ -13,6 +13,56 @@
     <meta property="og:image" content="public/assets/images/hero-portrait.jpg" />
     <title>周威俊 | AI Professional Mentor</title>
     <link rel="stylesheet" href="styles.css" />
+    <style>
+      .hero-copy {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: clamp(42px, 8vw, 120px);
+      }
+
+      .hero-manifesto {
+        max-width: 780px;
+        margin: clamp(18px, 4vw, 56px) 0 0;
+        color: var(--ink);
+        font-size: clamp(42px, 6.2vw, 106px);
+        line-height: 0.95;
+        font-weight: 820;
+        letter-spacing: 0;
+      }
+
+      .hero-manifesto::before {
+        content: "";
+        display: block;
+        width: clamp(96px, 14vw, 220px);
+        height: 6px;
+        margin-bottom: 24px;
+        background: var(--gold);
+      }
+
+      .hero-manifesto::after {
+        content: "AI IS ACCELERATING EVERYTHING";
+        display: block;
+        margin-top: 20px;
+        color: var(--gold);
+        font-size: clamp(12px, 1.1vw, 16px);
+        line-height: 1.2;
+        font-weight: 760;
+        letter-spacing: 0.08em;
+      }
+
+      @media (max-width: 820px) {
+        .hero-copy {
+          gap: 36px;
+        }
+
+        .hero-manifesto {
+          margin-top: 0;
+          font-size: clamp(44px, 14vw, 74px);
+        }
+      }
+    </style>
   </head>
   <body>
     <header class="site-header" aria-label="Primary navigation">
