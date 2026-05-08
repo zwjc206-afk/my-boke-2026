@@ -360,7 +360,8 @@ h3 {
 
 .gallery-item {
   position: relative;
-  min-height: 420px;
+  aspect-ratio: 4 / 5;
+  min-height: 0;
   overflow: hidden;
   background: #171613;
 }
@@ -372,6 +373,7 @@ h3 {
 .gallery-item img {
   height: 100%;
   object-fit: cover;
+  object-position: center;
   filter: saturate(0.9) contrast(1.05);
 }
 
@@ -621,7 +623,7 @@ h3 {
 
   .gallery-item,
   .gallery-item:nth-child(2) {
-    min-height: 460px;
+    min-height: 0;
     margin-top: 0;
   }
 

@@ -113,7 +113,7 @@
       "date": "2026-05-08",
       "duration": "102s",
       "src": "public/assets/videos/compressed/live-teaching-01.m4v",
-      "poster": "public/assets/images/visual-trust-training.jpg",
+      "poster": "public/assets/images/video-cover-01.jpg",
       "summary": "从你本机实拍素材压缩成网页版本，展示真实讲课状态与表达方式。",
       "summaryEn": "Compressed from local live footage to show real teaching presence and delivery."
     },
@@ -125,7 +125,7 @@
       "date": "2026-05-08",
       "duration": "78s",
       "src": "public/assets/videos/compressed/live-teaching-02.m4v",
-      "poster": "public/assets/images/visual-trust-content-system.jpg",
+      "poster": "public/assets/images/video-cover-02.jpg",
       "summary": "适合客户快速判断你的授课节奏、镜头表现和专业可信度。",
       "summaryEn": "Lets clients quickly evaluate teaching rhythm, camera presence, and credibility."
     },
@@ -137,7 +137,7 @@
       "date": "2026-05-08",
       "duration": "85s",
       "src": "public/assets/videos/compressed/live-teaching-03.m4v",
-      "poster": "public/assets/images/visual-trust-growth-map.jpg",
+      "poster": "public/assets/images/video-cover-03.jpg",
       "summary": "用于展示企业培训、门店获客和AI工具落地的讲解能力。",
       "summaryEn": "Shows training capability for AI tools, retail growth, and enterprise implementation."
     },
@@ -149,21 +149,21 @@
       "date": "2026-05-08",
       "duration": "83s",
       "src": "public/assets/videos/compressed/live-teaching-04.m4v",
-      "poster": "public/assets/images/visual-trust-training.jpg",
+      "poster": "public/assets/images/video-cover-04.jpg",
       "summary": "压缩后的网页版本，保留竖版短视频观看体验。",
       "summaryEn": "A compressed web version while keeping the vertical short-video experience."
     },
     {
-      "title": "AI医疗教学素材",
-      "titleEn": "AI Healthcare Teaching Material",
-      "category": "AI案例演示",
+      "title": "实拍讲课片段 05",
+      "titleEn": "Live Teaching Clip 05",
+      "category": "AI医疗案例",
       "categoryEn": "AI Case Demo",
       "date": "2026-05-08",
       "duration": "91s",
       "src": "public/assets/videos/compressed/ai-medical-lesson.m4v",
-      "poster": "public/assets/images/visual-trust-content-system.jpg",
-      "summary": "展示AI行业案例讲解方式，适合补充课程专业性与案例广度。",
-      "summaryEn": "Shows how industry AI cases are explained and expands the professional case library."
+      "poster": "public/assets/images/video-cover-05.jpg",
+      "summary": "展示OpenAI o1医疗诊断案例的讲解方式，补充课程专业性与行业案例广度。",
+      "summaryEn": "Shows how an OpenAI o1 healthcare diagnosis case is explained and expands the professional case library."
     }
   ],
   "articles": [

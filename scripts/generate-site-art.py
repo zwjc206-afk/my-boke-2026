@@ -42,61 +42,72 @@ def save(img, name):
     img.save(OUT / name, quality=88, optimize=True)
 
 
+def label(draw, xy, text, size=34, fill=(244, 239, 230), medium=False):
+    draw.text(xy, text, fill=fill, font=font(size, medium))
+
+
 def trust_visual_1():
-    img = gradient((1400, 1000), (10, 10, 10), (34, 24, 18))
+    img = gradient((1120, 1400), (8, 8, 8), (34, 26, 20))
     d = ImageDraw.Draw(img)
-    d.rectangle((72, 72, 1328, 928), outline=(207, 169, 96), width=2)
-    d.text((110, 118), "AI内容工厂", fill=(244, 239, 230), font=font(74, True))
-    d.text((112, 214), "脚本 / 数字人 / 剪辑 / 发布 / 线索回收", fill=(199, 162, 90), font=font(30))
-    for i in range(4):
-        x = 120 + i * 305
-        y = 355 + (i % 2) * 58
-        rounded_rect(d, (x, y, x + 235, y + 300), 18, (28, 29, 27), (108, 92, 68), 2)
-        d.rectangle((x + 24, y + 28, x + 211, y + 142), fill=(54, 46, 38))
-        d.line((x + 32, y + 176, x + 202, y + 176), fill=(199, 162, 90), width=4)
-        d.line((x + 32, y + 216, x + 172, y + 216), fill=(116, 116, 108), width=3)
-        d.line((x + 32, y + 252, x + 188, y + 252), fill=(116, 116, 108), width=3)
-    for i in range(3):
-        x = 360 + i * 305
-        d.line((x, 520, x + 60, 520), fill=(181, 59, 42), width=5)
-        d.polygon([(x + 60, 520), (x + 43, 508), (x + 43, 532)], fill=(181, 59, 42))
+    d.rectangle((54, 54, 1066, 1346), outline=(199, 162, 90), width=2)
+    label(d, (92, 96), "AI内容工厂", 82, medium=True)
+    label(d, (96, 206), "从脚本到线索回收的可复制系统", 32, (199, 162, 90))
+
+    steps = [("01", "选题脚本"), ("02", "数字人/真人"), ("03", "剪辑发布"), ("04", "线索跟进")]
+    for i, (num, name) in enumerate(steps):
+        y = 360 + i * 185
+        rounded_rect(d, (108, y, 1012, y + 126), 8, (23, 24, 22), (82, 70, 52), 2)
+        label(d, (146, y + 33), num, 42, (181, 59, 42), True)
+        label(d, (250, y + 30), name, 48, medium=True)
+        d.line((620, y + 64, 960, y + 64), fill=(72, 72, 66), width=3)
+        d.ellipse((944, y + 48, 976, y + 80), fill=(199, 162, 90))
+    d.text((96, 1210), "CONTENT SYSTEM", fill=(185, 175, 160), font=font(30, True))
+    d.line((96, 1264, 470, 1264), fill=(181, 59, 42), width=8)
     save(img, "visual-trust-content-system.jpg")
 
 
 def trust_visual_2():
-    img = gradient((1400, 1000), (14, 15, 13), (27, 55, 47))
+    img = gradient((1120, 1400), (9, 10, 9), (24, 48, 40))
     d = ImageDraw.Draw(img)
-    d.text((86, 86), "企业AI增长路径", fill=(244, 239, 230), font=font(68, True))
-    d.text((90, 174), "从课程到业务结果", fill=(199, 162, 90), font=font(32))
-    center = (700, 560)
-    for r, col in [(330, (42, 65, 57)), (245, (28, 42, 38)), (155, (18, 23, 22))]:
+    d.rectangle((54, 54, 1066, 1346), outline=(82, 92, 76), width=2)
+    label(d, (92, 96), "企业AI增长路径", 72, medium=True)
+    label(d, (96, 196), "课程不是终点，业务结果才是交付", 32, (199, 162, 90))
+    center = (560, 740)
+    for r, col in [(388, (44, 70, 61)), (286, (31, 47, 42)), (178, (17, 23, 21))]:
         d.ellipse((center[0] - r, center[1] - r, center[0] + r, center[1] + r), outline=col, width=24)
-    labels = ["认知", "工具", "流程", "数据", "成交"]
-    for i, label in enumerate(labels):
+    stages = ["认知", "场景", "流程", "内容", "成交"]
+    for i, stage in enumerate(stages):
         ang = -90 + i * 72
-        x = center[0] + math.cos(math.radians(ang)) * 315
-        y = center[1] + math.sin(math.radians(ang)) * 315
-        rounded_rect(d, (x - 84, y - 42, x + 84, y + 42), 10, (244, 239, 230), None)
-        d.text((x - 36, y - 24), label, fill=(17, 16, 14), font=font(34, True))
-    d.text((center[0] - 90, center[1] - 42), "AI", fill=(244, 239, 230), font=font(92, True))
-    d.text((center[0] - 112, center[1] + 54), "MENTOR", fill=(199, 162, 90), font=font(28))
+        x = center[0] + math.cos(math.radians(ang)) * 376
+        y = center[1] + math.sin(math.radians(ang)) * 376
+        rounded_rect(d, (x - 78, y - 46, x + 78, y + 46), 6, (244, 239, 230), None)
+        label(d, (x - 36, y - 25), stage, 34, (17, 16, 14), True)
+    label(d, (center[0] - 95, center[1] - 52), "AI", 118, medium=True)
+    label(d, (center[0] - 114, center[1] + 72), "GROWTH", 30, (199, 162, 90), True)
+    label(d, (92, 1210), "FROM TRAINING TO RESULT", 28, (185, 175, 160), True)
+    d.line((92, 1264, 560, 1264), fill=(181, 59, 42), width=8)
     save(img, "visual-trust-growth-map.jpg")
 
 
 def trust_visual_3():
-    img = gradient((1400, 1000), (9, 9, 9), (43, 37, 29))
+    img = gradient((1120, 1400), (8, 8, 8), (42, 36, 28))
     d = ImageDraw.Draw(img)
-    d.text((86, 82), "课程现场 × 交付方法", fill=(244, 239, 230), font=font(66, True))
-    d.text((90, 170), "把复杂AI能力拆成团队听得懂、做得到的动作", fill=(185, 175, 160), font=font(28))
-    for i, width in enumerate([920, 760, 560]):
-        y = 300 + i * 150
-        rounded_rect(d, (98, y, 98 + width, y + 92), 8, (25, 25, 23), (92, 78, 57), 2)
-        d.text((130, y + 27), ["01 诊断业务场景", "02 搭建内容与智能体流程", "03 复盘增长数据"][i], fill=(244, 239, 230), font=font(36, True))
-    for x in [1120, 1190, 1260]:
-        d.ellipse((x, 370, x + 52, 422), fill=(181, 59, 42))
-        d.line((x + 26, 422, x + 26, 720), fill=(199, 162, 90), width=5)
-    d.rectangle((1075, 726, 1320, 770), fill=(244, 239, 230))
-    d.text((1088, 795), "TRAINING", fill=(199, 162, 90), font=font(26, True))
+    d.rectangle((54, 54, 1066, 1346), outline=(199, 162, 90), width=2)
+    label(d, (92, 96), "课程现场", 82, medium=True)
+    label(d, (96, 206), "诊断、流程、交付、复盘", 34, (199, 162, 90))
+    board = (128, 350, 992, 878)
+    rounded_rect(d, board, 10, (22, 22, 20), (104, 86, 62), 2)
+    for i, line in enumerate(["业务场景诊断", "AI工具组合", "内容SOP", "数据复盘"]):
+        y = 418 + i * 92
+        d.line((190, y + 54, 860, y + 54), fill=(70, 70, 64), width=3)
+        d.ellipse((188, y + 4, 230, y + 46), fill=(181, 59, 42))
+        label(d, (260, y), line, 40, medium=True)
+    d.rectangle((178, 980, 942, 1050), fill=(244, 239, 230))
+    d.rectangle((222, 1052, 898, 1090), fill=(199, 162, 90))
+    for x in (248, 388, 528, 668, 808):
+        d.ellipse((x, 1138, x + 56, 1194), fill=(32, 32, 30))
+        d.line((x + 28, 1194, x + 28, 1274), fill=(92, 78, 57), width=5)
+    label(d, (92, 1210), "DELIVERABLE TRAINING", 28, (185, 175, 160), True)
     save(img, "visual-trust-training.jpg")
 
 
