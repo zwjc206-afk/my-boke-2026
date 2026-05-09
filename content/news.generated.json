@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T04:14:42.133Z",
+  "generatedAt": "2026-05-09T01:48:56.770Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,26 @@
     }
   ],
   "items": [
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产品商业化",
+      "titleEn": "See what happens when creative legends use AI to make ads for small businesses.",
+      "date": "2026-05-08",
+      "summary": "Google AI 发布与「AI产品商业化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. The",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Running Codex safely at OpenAI",
+      "date": "2026-05-08",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding",
+      "url": "https://openai.com/index/running-codex-safely",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA 参与美国能源部 Genesis Mission AI 项目",
@@ -61,22 +81,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "ChatGPT 引入可信联系人功能",
-      "titleEn": "Introducing Trusted Contact in ChatGPT",
-      "date": "2026-05-07",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detecte",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 开始测试 ChatGPT 广告形态",
       "titleEn": "Testing ads in ChatGPT",
       "date": "2026-05-07",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user ",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT 引入可信联系人功能",
+      "titleEn": "Introducing Trusted Contact in ChatGPT",
+      "date": "2026-05-07",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detecte",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
@@ -112,31 +132,11 @@
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Introducing ChatGPT Futures: Class of 2026",
+      "titleEn": "How ChatGPT learns about the world while protecting privacy",
       "date": "2026-05-06",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this gen",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "How frontier firms are pulling ahead",
-      "date": "2026-05-06",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable co",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "date": "2026-05-06",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, por",
-      "url": "https://openai.com/index/singular-bank",
+      "summaryEn": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve ",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
