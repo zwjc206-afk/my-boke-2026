@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T01:48:56.770Z",
+  "generatedAt": "2026-05-10T01:49:29.414Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -48,6 +48,16 @@
       "summaryEn": "AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-",
       "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2019/06/DC-skyline.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "Your AI steering committee’s 2026 checklist: Sovereignty",
+      "date": "2026-05-07",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As organizations scale AI, one question keeps coming up in AI steering committee conversations: Can we move fast without losing control? Tha",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -128,16 +138,6 @@
       "summaryEn": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum",
       "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "How ChatGPT learns about the world while protecting privacy",
-      "date": "2026-05-06",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve ",
-      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
