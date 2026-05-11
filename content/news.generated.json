@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T01:49:29.414Z",
+  "generatedAt": "2026-05-11T01:57:21.964Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：AI产业动态",
+      "titleEn": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
+      "date": "2026-05-10",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote addr",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-KL_-13_16x9-scaled.jpg"
+    },
     {
       "source": "Google AI",
       "title": "Google AI 最新动态：AI产品商业化",
@@ -128,16 +138,6 @@
       "summaryEn": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：算力基础设施",
-      "titleEn": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
-      "date": "2026-05-06",
-      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum",
-      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ethernet-press-spectrum-x-corp-blog-1920x1080-1.jpg"
     }
   ]
 }
