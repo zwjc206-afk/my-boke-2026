@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T01:53:24.789Z",
+  "generatedAt": "2026-05-13T01:57:59.014Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,56 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How finance teams use Codex",
+      "date": "2026-05-12",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work in",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：网络安全与可信访问",
+      "titleEn": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "date": "2026-05-12",
+      "summary": "NVIDIA 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVID",
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How NVIDIA engineers and researchers build with Codex",
+      "date": "2026-05-12",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "url": "https://openai.com/index/nvidia",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "What Parameter Golf taught us about AI-assisted research",
+      "date": "2026-05-12",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, ",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "AutoScout24 scales engineering with AI-powered workflows",
+      "date": "2026-05-12",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "url": "https://openai.com/index/autoscout24",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
@@ -87,56 +137,6 @@
       "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding",
       "url": "https://openai.com/index/running-codex-safely",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA 参与美国能源部 Genesis Mission AI 项目",
-      "titleEn": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
-      "date": "2026-05-07",
-      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-",
-      "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2019/06/DC-skyline.jpg"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：算力基础设施",
-      "titleEn": "Your AI steering committee’s 2026 checklist: Sovereignty",
-      "date": "2026-05-07",
-      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "As organizations scale AI, one question keeps coming up in AI steering committee conversations: Can we move fast without losing control? Tha",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
-      "image": "public/assets/images/news-microsoft.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 扩展 GPT-5.5 网络安全可信访问能力",
-      "titleEn": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "date": "2026-05-07",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and pro",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 发布服务智能体客户案例",
-      "titleEn": "Parloa builds service agents customers want to talk to",
-      "date": "2026-05-07",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and dep",
-      "url": "https://openai.com/index/parloa",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI API 推出新一代语音智能模型",
-      "titleEn": "Advancing voice intelligence with new models in the API",
-      "date": "2026-05-07",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
