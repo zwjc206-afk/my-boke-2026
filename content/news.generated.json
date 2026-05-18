@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T01:55:24.513Z",
+  "generatedAt": "2026-05-18T02:05:19.179Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -58,16 +58,6 @@
       "summaryEn": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "url": "https://openai.com/index/sea-david-chen",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：算力基础设施",
-      "titleEn": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
-      "date": "2026-05-14",
-      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "AI is no longer a question of possibility—it’s a question of readiness. Despite widespread adoption, many organizations remain early in thei",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
-      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -138,6 +128,16 @@
       "summaryEn": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work in",
       "url": "https://openai.com/academy/how-finance-teams-use-codex",
       "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：网络安全与可信访问",
+      "titleEn": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "date": "2026-05-12",
+      "summary": "NVIDIA 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVID",
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/logo-lockup-blog-SAP-1920x1080-1.jpg"
     }
   ]
 }
