@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T02:04:11.175Z",
+  "generatedAt": "2026-05-21T02:03:27.810Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -20,6 +20,36 @@
   ],
   "items": [
     {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：模型能力与API应用",
+      "titleEn": "100 things we announced at I/O 2026",
+      "date": "2026-05-20",
+      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "date": "2026-05-20",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in ",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "The next phase of OpenAI’s Education for Countries",
+      "date": "2026-05-20",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve glob",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：算力基础设施",
       "titleEn": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
@@ -28,6 +58,16 @@
       "summaryEn": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ jo",
       "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/google-cloud-nvidia-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Introducing OpenAI for Singapore",
+      "date": "2026-05-19",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public servic",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "image": "public/assets/images/news-openai.jpg"
     },
     {
       "source": "Google AI",
@@ -98,46 +138,6 @@
       "summaryEn": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
       "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "date": "2026-05-19",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-genera",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
-      "date": "2026-05-18",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than tradit",
-      "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-dtw-keynote-jhh-dell-CG3A2688_Option2-scaled.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
-      "date": "2026-05-18",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, Sp",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "date": "2026-05-18",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across da",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
