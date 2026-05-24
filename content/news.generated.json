@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T01:54:54.977Z",
+  "generatedAt": "2026-05-24T02:02:15.335Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -48,6 +48,16 @@
       "summaryEn": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthrou",
       "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "AI needs more than intelligence—it needs humanity",
+      "date": "2026-05-21",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Turn AI investment into real organizational momentum by strengthening the human skills that shape culture and guide decisions to help teams ",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -128,16 +138,6 @@
       "summaryEn": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：语音智能与多模态交互",
-      "titleEn": "New ways to create and get things done in Google Workspace",
-      "date": "2026-05-19",
-      "summary": "Google AI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
     }
   ]
 }
