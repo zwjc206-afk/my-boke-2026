@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T02:10:09.079Z",
+  "generatedAt": "2026-05-26T02:00:55.003Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "date": "2026-05-25",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution a",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "Google AI",
       "title": "Google AI 最新动态：机器人与自动化",
@@ -48,6 +58,16 @@
       "summaryEn": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthrou",
       "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "AI needs more than intelligence—it needs humanity",
+      "date": "2026-05-21",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Turn AI investment into real organizational momentum by strengthening the human skills that shape culture and guide decisions to help teams ",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -118,26 +138,6 @@
       "summaryEn": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "How AI Mode is changing the way people search in the U.S.",
-      "date": "2026-05-19",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：语音智能与多模态交互",
-      "titleEn": "New ways to create and get things done in Google Workspace",
-      "date": "2026-05-19",
-      "summary": "Google AI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp"
     }
   ]
 }
