@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:09:46.632Z",
+  "generatedAt": "2026-05-28T01:52:30.494Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,46 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "AI Factories: The New Infrastructure of Intelligence",
+      "date": "2026-05-27",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on specia",
+      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/AI_v001-scaled.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "date": "2026-05-27",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, an",
+      "url": "https://openai.com/index/cisco",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Building self-improving tax agents with Codex",
+      "date": "2026-05-27",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating work",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Warp’s big bet on building open source with GPT-5.5",
+      "date": "2026-05-27",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "url": "https://openai.com/index/warp",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -67,7 +107,17 @@
       "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthrou",
       "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-gtctpe-special-event-jhh-constellation-celebration-1-shn-6892_16x9-scaled.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "AI needs more than intelligence—it needs humanity",
+      "date": "2026-05-21",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Turn AI investment into real organizational momentum by strengthening the human skills that shape culture and guide decisions to help teams ",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -88,56 +138,6 @@
       "summaryEn": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in ",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "The next phase of OpenAI’s Education for Countries",
-      "date": "2026-05-20",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve glob",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：算力基础设施",
-      "titleEn": "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
-      "date": "2026-05-19",
-      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "At this year’s Google I/O conference, NVIDIA and Google Cloud are accelerating the work of more than 100,000 developers in the companies’ jo",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/google-cloud-nvidia-1920x1080-1.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Introducing OpenAI for Singapore",
-      "date": "2026-05-19",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public servic",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "I/O 2026",
-      "date": "2026-05-19",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "How AI Mode is changing the way people search in the U.S.",
-      "date": "2026-05-19",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp"
     }
   ]
 }
