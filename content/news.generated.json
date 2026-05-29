@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T01:52:30.494Z",
+  "generatedAt": "2026-05-29T02:01:11.048Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：模型能力与API应用",
+      "titleEn": "Catch up on 12 major I/O 2026 moments",
+      "date": "2026-05-28",
+      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：机器人与自动化",
+      "titleEn": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+      "date": "2026-05-28",
+      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in t",
+      "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "How Endava builds an agentic organization with Codex",
+      "date": "2026-05-28",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks t",
+      "url": "https://openai.com/index/endava",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "OpenAI’s Frontier Governance Framework",
+      "date": "2026-05-28",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California reg",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -97,46 +137,6 @@
       "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterp",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
-      "date": "2026-05-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthrou",
-      "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-gtctpe-special-event-jhh-constellation-celebration-1-shn-6892_16x9-scaled.jpg"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：算力基础设施",
-      "titleEn": "AI needs more than intelligence—it needs humanity",
-      "date": "2026-05-21",
-      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Turn AI investment into real organizational momentum by strengthening the human skills that shape culture and guide decisions to help teams ",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
-      "image": "public/assets/images/news-microsoft.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "AdventHealth advances whole-person care with OpenAI",
-      "date": "2026-05-21",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "url": "https://openai.com/index/adventhealth",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "date": "2026-05-20",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in ",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
