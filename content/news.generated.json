@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T02:37:50.425Z",
+  "generatedAt": "2026-06-04T02:33:36.591Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -21,13 +21,73 @@
   "items": [
     {
       "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+      "date": "2026-06-03",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with",
+      "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/CVPR_blog_still-scaled.png"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+      "date": "2026-06-03",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles,",
+      "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cvpr-product-blog-still-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Introducing new capabilities to GPT-Rosalind",
+      "date": "2026-06-03",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and exper",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "5 ways Google Search can level up your thrift and vintage shopping",
+      "date": "2026-06-03",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "A blueprint for democratic governance of frontier AI",
+      "date": "2026-06-03",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "OpenAI public policy agenda",
+      "date": "2026-06-03",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：机器人与自动化",
       "titleEn": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
       "date": "2026-06-02",
       "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challen",
       "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/industrial-ai-engineers-kv-1920x1080-1.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/industrial-ai-engineers-kv-1920x1080-2.jpg"
     },
     {
       "source": "NVIDIA Blog",
@@ -78,66 +138,6 @@
       "summaryEn": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. Je",
       "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：机器人与自动化",
-      "titleEn": "Codex is becoming a productivity tool for everyone",
-      "date": "2026-06-02",
-      "summary": "OpenAI 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow a",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Our views on AI policy and political advocacy",
-      "date": "2026-06-01",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside politic",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：模型能力与API应用",
-      "titleEn": "How we used Gemini to build Google I/O 2026",
-      "date": "2026-06-01",
-      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Learn how Googlers used AI to produce Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：算力基础设施",
-      "titleEn": "Building the infrastructure for the Intelligence Age in Michigan",
-      "date": "2026-06-01",
-      "summary": "OpenAI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs,",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "OpenAI frontier models and Codex are now available on AWS",
-      "date": "2026-06-01",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS envi",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-      "date": "2026-06-01",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet grow",
-      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/partner-social-ncp-ai-factory-announcement-1920x1080-1.jpg"
     }
   ]
 }
