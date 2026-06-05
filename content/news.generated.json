@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:33:36.591Z",
+  "generatedAt": "2026-06-05T02:08:21.500Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,26 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "How Endava is redesigning software delivery around AI agents",
+      "date": "2026-06-04",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-nati",
+      "url": "https://openai.com/index/endava-frontiers",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Dreaming: Better memory for a more helpful ChatGPT",
+      "date": "2026-06-04",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -61,22 +81,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：网络安全与可信访问",
-      "titleEn": "A blueprint for democratic governance of frontier AI",
-      "date": "2026-06-03",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 最新动态：AI产业动态",
       "titleEn": "OpenAI public policy agenda",
       "date": "2026-06-03",
       "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI",
       "url": "https://openai.com/index/public-policy-agenda",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "A blueprint for democratic governance of frontier AI",
+      "date": "2026-06-03",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
@@ -118,26 +138,6 @@
       "summaryEn": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportuniti",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
-      "date": "2026-06-02",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl",
-      "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-      "date": "2026-06-02",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. Je",
-      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/robotics-press-jetson-agentic-ready-cptx26-1920x1080-5180550.jpg"
     }
   ]
 }
