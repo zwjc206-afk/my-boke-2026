@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T01:59:49.079Z",
+  "generatedAt": "2026-06-07T02:15:38.480Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -101,22 +101,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "OpenAI public policy agenda",
-      "date": "2026-06-03",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 最新动态：网络安全与可信访问",
       "titleEn": "A blueprint for democratic governance of frontier AI",
       "date": "2026-06-03",
       "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "url": "https://openai.com/index/frontier-safety-blueprint",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "OpenAI public policy agenda",
+      "date": "2026-06-03",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI",
+      "url": "https://openai.com/index/public-policy-agenda",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
