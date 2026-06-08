@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T02:15:38.480Z",
+  "generatedAt": "2026-06-08T02:31:51.767Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,26 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：机器人与自动化",
+      "titleEn": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "date": "2026-06-07",
+      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastru",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      "date": "2026-06-07",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. ",
+      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg"
+    },
     {
       "source": "Google AI",
       "title": "Google AI 最新动态：AI产业动态",
@@ -118,26 +138,6 @@
       "summaryEn": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI",
       "url": "https://openai.com/index/public-policy-agenda",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：机器人与自动化",
-      "titleEn": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
-      "date": "2026-06-02",
-      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours. Today’s remaining challen",
-      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/industrial-ai-engineers-kv-1920x1080-2.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-      "date": "2026-06-02",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtime",
-      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-corp-blog-microsoft-1280x680-4999350.png"
     }
   ]
 }
