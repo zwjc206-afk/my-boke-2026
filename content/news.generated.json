@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T02:31:52.602Z",
+  "generatedAt": "2026-06-12T02:15:05.068Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "OpenAI to acquire Ona",
+      "date": "2026-06-11",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise wo",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "date": "2026-06-11",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-ge",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "BBVA puts AI at the core of banking with OpenAI",
+      "date": "2026-06-11",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worl",
+      "url": "https://openai.com/index/bbva",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：网络安全与可信访问",
@@ -108,36 +138,6 @@
       "summaryEn": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
       "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Introducing the OpenAI Economic Research Exchange",
-      "date": "2026-06-08",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for se",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：机器人与自动化",
-      "titleEn": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "date": "2026-06-07",
-      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastru",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-      "date": "2026-06-07",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. ",
-      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg"
     }
   ]
 }
