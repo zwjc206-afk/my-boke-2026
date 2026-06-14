@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T02:07:44.569Z",
+  "generatedAt": "2026-06-14T02:30:27.051Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -48,6 +48,16 @@
       "summaryEn": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "url": "https://openai.com/index/preply",
       "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "The CMO on the frontier: From AI experimentation to AI at work",
+      "date": "2026-06-11",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Marketing is at an inflection point. Across industries, CMOs are no longer asking whether AI will transform marketing but how fast they can ",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/11/the-cmo-on-the-frontier-from-ai-experimentation-to-ai-at-work/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -100,6 +110,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/diffusiongemma-nv-blog-1280x680-1.jpg"
     },
     {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "AI amplifies creativity by removing friction",
+      "date": "2026-06-10",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As generative AI becomes more accessible across the enterprise, a familiar tension is emerging—especially for teams responsible for brand, s",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+      "image": "public/assets/images/news-microsoft.jpg"
+    },
+    {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "PRC-linked influence operations are targeting AI debates in the US",
@@ -117,26 +137,6 @@
       "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,0",
       "url": "https://openai.com/index/lseg",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-      "date": "2026-06-09",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond",
-      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nvidia-confidential-computing-apple-pcc.jpeg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Confidential submission of draft S-1 to the SEC",
-      "date": "2026-06-08",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
