@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T02:34:28.507Z",
+  "generatedAt": "2026-06-16T02:37:42.341Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -71,22 +71,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "OpenAI to acquire Ona",
-      "date": "2026-06-11",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise wo",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "BBVA puts AI at the core of banking with OpenAI",
       "date": "2026-06-11",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worl",
       "url": "https://openai.com/index/bbva",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "OpenAI to acquire Ona",
+      "date": "2026-06-11",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise wo",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
