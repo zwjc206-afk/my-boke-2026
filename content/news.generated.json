@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T02:32:09.626Z",
+  "generatedAt": "2026-06-19T02:48:33.097Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,66 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+      "date": "2026-06-18",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-loa",
+      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/09/nvidiaheadquarters.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "New usage analytics and updated spend controls for enterprises",
+      "date": "2026-06-18",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confid",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+      "date": "2026-06-18",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building nex",
+      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cannes-lions-featured-visual-still-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Improving health intelligence in ChatGPT",
+      "date": "2026-06-18",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, a",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "date": "2026-06-18",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "France Advances Europe’s AI Future With NVIDIA Technologies",
+      "date": "2026-06-18",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity ",
+      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/5383050-vivatech26-digital-nv-blog-image-1920x1080-1.jpg"
+    },
     {
       "source": "Google AI",
       "title": "Google AI 最新动态：AI产业动态",
@@ -78,66 +138,6 @@
       "summaryEn": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of age",
       "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-press-hpe-1600x900-4603000.png"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-      "date": "2026-06-16",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how ",
-      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/end-to-end-corp-blog-best-models-trained-1280x680-4660123.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Predicting model behavior before release by simulating deployment",
-      "date": "2026-06-16",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve saf",
-      "url": "https://openai.com/index/deployment-simulation",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Introducing the OpenAI Partner Network",
-      "date": "2026-06-14",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformati",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-      "date": "2026-06-12",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a ",
-      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/dgx-social-gb300-2048x2048-1-1.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "New OpenAI Academy courses for the next era of work",
-      "date": "2026-06-12",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyda",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "How Preply combines AI and human tutors to personalize learning",
-      "date": "2026-06-12",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "url": "https://openai.com/index/preply",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
