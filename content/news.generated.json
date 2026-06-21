@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T02:08:53.696Z",
+  "generatedAt": "2026-06-21T02:32:41.012Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -38,6 +38,16 @@
       "summaryEn": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confid",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "4 paths to Frontier Transformation: From AI experimentation to real business value",
+      "date": "2026-06-18",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "AI is moving from experimentation to enterprise impact, with leading organizations focusing on four key paths to unlock business value acros",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "NVIDIA Blog",
@@ -128,16 +138,6 @@
       "summaryEn": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building",
       "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/26tx-coherent-factory-DEB30838-DL-edit-1-scaled.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-      "date": "2026-06-16",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of age",
-      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-press-hpe-1600x900-4603000.png"
     }
   ]
 }
