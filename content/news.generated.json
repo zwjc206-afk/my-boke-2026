@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T02:07:00.636Z",
+  "generatedAt": "2026-07-01T02:11:45.058Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,86 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "date": "2026-06-30",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing sta",
+      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/anthropic-nvidia.png"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+      "date": "2026-06-30",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost",
+      "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/press-inference-ai-aws-beat-1920x1080-1.png"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：机器人与自动化",
+      "titleEn": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+      "date": "2026-06-30",
+      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the softw",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/JaiveerNVIDIALife-13-scaled.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+      "date": "2026-06-30",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform ",
+      "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/nv-ov-ito-jun-1280x680-1.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How ChatGPT adoption has expanded",
+      "date": "2026-06-30",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and drivin",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "date": "2026-06-30",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Introducing GeneBench-Pro",
+      "date": "2026-06-30",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world da",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：算力基础设施",
+      "titleEn": "Core dump epidemiology: fixing an 18-year-old bug",
+      "date": "2026-06-30",
+      "summary": "OpenAI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-stand",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -57,86 +137,6 @@
       "summary": "OpenAI 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow ch",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "date": "2026-06-28",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：网络安全与可信访问",
-      "titleEn": "Previewing GPT-5.6 Sol: a next-generation model",
-      "date": "2026-06-26",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most ",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "How agents are transforming work",
-      "date": "2026-06-25",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "date": "2026-06-24",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI sys",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：算力基础设施",
-      "titleEn": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-      "date": "2026-06-24",
-      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastruct",
-      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-aws-1920x1080-2.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "date": "2026-06-23",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and au",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "How Businesses Are Building Specialized AI They Can Trust",
-      "date": "2026-06-23",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniqu",
-      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/agentic-ai-agent-toolkit-kv-r3b-1920x1080-2.png"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Helping build shared standards for advanced AI",
-      "date": "2026-06-23",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the ",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
