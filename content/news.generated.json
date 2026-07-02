@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T02:11:45.058Z",
+  "generatedAt": "2026-07-02T02:04:00.965Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,26 @@
     }
   ],
   "items": [
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "The latest AI news we announced in June 2026",
+      "date": "2026-07-01",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Here are Google’s latest AI updates from June 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "date": "2026-07-01",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -118,26 +138,6 @@
       "summaryEn": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
-      "date": "2026-06-29",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemot",
-      "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/open-source-software-crop1-scaled.png"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：机器人与自动化",
-      "titleEn": "Mapping Europe’s AI Workforce Opportunity",
-      "date": "2026-06-29",
-      "summary": "OpenAI 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow ch",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
