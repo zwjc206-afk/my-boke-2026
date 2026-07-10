@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T01:47:35.729Z",
+  "generatedAt": "2026-07-10T01:45:44.543Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "date": "2026-07-09",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, hi",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "ChatGPT is now a partner for your most ambitious work",
+      "date": "2026-07-09",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into fini",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "GPT-5.5 Bio Bug Bounty",
+      "date": "2026-07-09",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Details about the OpenAI Bio Bounty program",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -102,42 +132,12 @@
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "date": "2026-07-07",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves qual",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "MUFG aims to become AI-native with OpenAI",
       "date": "2026-07-07",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "url": "https://openai.com/index/mufg",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "How Open Models Are Driving AI Research",
-      "date": "2026-07-06",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work",
-      "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ICML-Blog-Featured-Image.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：算力基础设施",
-      "titleEn": "How Nations Are Deploying AI for Strategic Priorities",
-      "date": "2026-07-06",
-      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technolo",
-      "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/06/llm-blog-gtc-25-paris-3945665-1280x680-1.jpg"
     }
   ]
 }
