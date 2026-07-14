@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T01:28:15.432Z",
+  "generatedAt": "2026-07-14T01:17:23.333Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -31,6 +31,16 @@
     },
     {
       "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Getting started with ChatGPT",
+      "date": "2026-07-10",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "url": "https://openai.com/academy/getting-started",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
       "titleEn": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "date": "2026-07-09",
@@ -41,22 +51,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "ChatGPT is now a partner for your most ambitious work",
-      "date": "2026-07-09",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into fini",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "GPT-5.5 Bio Bug Bounty",
       "date": "2026-07-09",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Details about the OpenAI Bio Bounty program",
       "url": "https://openai.com/index/bio-bug-bounty",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "ChatGPT is now a partner for your most ambitious work",
+      "date": "2026-07-09",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into fini",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
@@ -128,16 +138,6 @@
       "summaryEn": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "date": "2026-07-07",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but ",
-      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg"
     }
   ]
 }
