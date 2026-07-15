@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:17:23.333Z",
+  "generatedAt": "2026-07-15T01:14:17.509Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,56 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+      "date": "2026-07-14",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs",
+      "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "date": "2026-07-14",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its r",
+      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "How to manage AI investments in the agentic era",
+      "date": "2026-07-14",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling hi",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How data science teams use ChatGPT Work",
+      "date": "2026-07-14",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How sales teams use ChatGPT Work",
+      "date": "2026-07-14",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal ",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：语音智能与多模态交互",
@@ -51,22 +101,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "GPT-5.5 Bio Bug Bounty",
-      "date": "2026-07-09",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Details about the OpenAI Bio Bounty program",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
       "titleEn": "ChatGPT is now a partner for your most ambitious work",
       "date": "2026-07-09",
       "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into fini",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "GPT-5.5 Bio Bug Bounty",
+      "date": "2026-07-09",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Details about the OpenAI Bio Bounty program",
+      "url": "https://openai.com/index/bio-bug-bounty",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
@@ -88,56 +138,6 @@
       "summaryEn": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability",
       "url": "https://openai.com/index/government-national-security-partnerships",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Separating signal from noise in coding evaluations",
-      "date": "2026-07-08",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in e",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Helping K–12 educators build practical AI skills",
-      "date": "2026-07-08",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for th",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：语音智能与多模态交互",
-      "titleEn": "Introducing GPT-Live",
-      "date": "2026-07-08",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-      "date": "2026-07-07",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic ",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-press-vera-cpu-agentic-tl-1920x1080-5404450.png"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：智能体与企业工作流",
-      "titleEn": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "date": "2026-07-07",
-      "summary": "Google AI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp"
     }
   ]
 }
