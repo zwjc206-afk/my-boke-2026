@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:23:50.112Z",
+  "generatedAt": "2026-07-17T01:26:56.447Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,46 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Why teens deserve access to safe AI",
+      "date": "2026-07-16",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnersh",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "Connect more of your apps to Search",
+      "date": "2026-07-16",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：模型能力与API应用",
+      "titleEn": "Create, edit and star in videos with two Google Vids updates",
+      "date": "2026-07-16",
+      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：语音智能与多模态交互",
+      "titleEn": "How Cars24 scales conversations and builds faster with OpenAI",
+      "date": "2026-07-16",
+      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic wo",
+      "url": "https://openai.com/index/cars24",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：模型能力与API应用",
@@ -47,7 +87,7 @@
       "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’",
       "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/IMG_7018-scaled-e1784111533455.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg"
     },
     {
       "source": "OpenAI",
@@ -97,46 +137,6 @@
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal ",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "How data science teams use ChatGPT Work",
-      "date": "2026-07-14",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：语音智能与多模态交互",
-      "titleEn": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "date": "2026-07-10",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and t",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Getting started with ChatGPT",
-      "date": "2026-07-10",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "date": "2026-07-09",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, hi",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
