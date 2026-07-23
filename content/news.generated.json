@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T01:23:17.564Z",
+  "generatedAt": "2026-07-23T01:42:57.916Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -21,13 +21,73 @@
   "items": [
     {
       "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：机器人与自动化",
+      "titleEn": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "date": "2026-07-22",
+      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments b",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：算力基础设施",
+      "titleEn": "Building AI infrastructure with the Effingham County community",
+      "date": "2026-07-22",
+      "summary": "OpenAI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and acce",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "How news organizations are using AI to advance their vital missions",
+      "date": "2026-07-22",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journ",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Advancing the next era of national science",
+      "date": "2026-07-22",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：语音智能与多模态交互",
+      "titleEn": "Introducing OpenAI Presence",
+      "date": "2026-07-22",
+      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for custome",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "date": "2026-07-22",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secur",
+      "url": "https://openai.com/index/ntt-data",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：算力基础设施",
       "titleEn": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
       "date": "2026-07-21",
       "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufactur",
       "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg"
     },
     {
       "source": "OpenAI",
@@ -78,66 +138,6 @@
       "summaryEn": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
       "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：AI产业动态",
-      "titleEn": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-      "date": "2026-07-20",
-      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of ",
-      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7.png"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Safety and alignment in an era of long-horizon models",
-      "date": "2026-07-20",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards throu",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
-      "date": "2026-07-17",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "A scorecard for the AI age",
-      "date": "2026-07-17",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability,",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Why teens deserve access to safe AI",
-      "date": "2026-07-16",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnersh",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "Connect more of your apps to Search",
-      "date": "2026-07-16",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"
     }
   ]
 }
