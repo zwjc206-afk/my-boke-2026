@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T01:27:15.601Z",
+  "generatedAt": "2026-07-26T01:30:26.684Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -27,7 +27,17 @@
       "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researche",
       "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "Inside nonprofits using AI to extend their impact",
+      "date": "2026-07-23",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Discover how nonprofits are applying AI to strengthen communities, expand opportunity, and create lasting impact across the globe. The post ",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "NVIDIA Blog",
@@ -128,16 +138,6 @@
       "summaryEn": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-      "date": "2026-07-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to tra",
-      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/ethernet-spectrum-x-corp-blog-1920x1080-5205700.jpg"
     }
   ]
 }
