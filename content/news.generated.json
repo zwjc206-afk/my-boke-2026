@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T01:30:26.684Z",
+  "generatedAt": "2026-07-27T01:48:14.057Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：机器人与自动化",
+      "titleEn": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "date": "2026-07-27",
+      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI sys",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：AI产业动态",
@@ -128,16 +138,6 @@
       "summaryEn": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufactur",
       "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Introducing the ChatGPT for small business program",
-      "date": "2026-07-21",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
