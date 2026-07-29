@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T01:22:30.796Z",
+  "generatedAt": "2026-07-29T01:23:35.710Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -20,6 +20,56 @@
   ],
   "items": [
     {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Scientific computing in the age of agentic AI",
+      "date": "2026-07-28",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discov",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：智能体与企业工作流",
+      "titleEn": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "date": "2026-07-28",
+      "summary": "Google AI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "date": "2026-07-28",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse",
+      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "5 ways AI Mode in Search helps you enjoy the real world",
+      "date": "2026-07-28",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book con",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "5 ways to host the ultimate dinner party with Google Search",
+      "date": "2026-07-28",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
+    },
+    {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：网络安全与可信访问",
       "titleEn": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
@@ -27,7 +77,7 @@
       "summary": "NVIDIA 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommun",
       "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080_V4.png"
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080._V5.png"
     },
     {
       "source": "OpenAI",
@@ -87,56 +137,6 @@
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and bette",
       "url": "https://openai.com/index/health-in-chatgpt",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：机器人与自动化",
-      "titleEn": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "date": "2026-07-22",
-      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments b",
-      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/medical-physica-simulation.png"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：算力基础设施",
-      "titleEn": "Building AI infrastructure with the Effingham County community",
-      "date": "2026-07-22",
-      "summary": "OpenAI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and acce",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "How news organizations are using AI to advance their vital missions",
-      "date": "2026-07-22",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journ",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Advancing the next era of national science",
-      "date": "2026-07-22",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：语音智能与多模态交互",
-      "titleEn": "Introducing OpenAI Presence",
-      "date": "2026-07-22",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for custome",
-      "url": "https://openai.com/index/introducing-openai-presence",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
