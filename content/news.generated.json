@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T01:43:45.206Z",
+  "generatedAt": "2026-08-01T01:44:10.836Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -21,6 +21,36 @@
   "items": [
     {
       "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "Advancing responsible AI across Europe",
+      "date": "2026-07-31",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will co",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Univé builds an AI-ready workforce",
+      "date": "2026-07-31",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovati",
+      "url": "https://openai.com/index/unive",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Disrupting a Criminal Scam Operation",
+      "date": "2026-07-31",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "Advancing the price-performance frontier with GPT-5.6",
       "date": "2026-07-30",
@@ -38,16 +68,6 @@
       "summaryEn": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and ",
       "url": "https://openai.com/index/avatarin",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：算力基础设施",
-      "titleEn": "Looking back on Microsoft&#8217;s FY26: From AI experimentation to Frontier Transformation",
-      "date": "2026-07-29",
-      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world b",
-      "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
-      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -118,26 +138,6 @@
       "summaryEn": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book con",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "5 ways to host the ultimate dinner party with Google Search",
-      "date": "2026-07-28",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：网络安全与可信访问",
-      "titleEn": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "date": "2026-07-27",
-      "summary": "NVIDIA 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommun",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/osaia-logo-garden_press-kit_1920x1080-Jul30v2.png"
     }
   ]
 }
