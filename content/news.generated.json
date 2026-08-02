@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T01:44:10.836Z",
+  "generatedAt": "2026-08-02T01:29:17.554Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Ten advances in mathematics and theoretical computer science",
+      "date": "2026-08-01",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cr",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：网络安全与可信访问",
@@ -50,6 +60,16 @@
       "image": "public/assets/images/news-openai.jpg"
     },
     {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "What&#8217;s the Tea? Lessons from leaders navigating AI transformation",
+      "date": "2026-07-30",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "I drink a lot of tea. English breakfast, usually, in a real cup, every day. So when my team came to me with an idea for a new series, they w",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/",
+      "image": "public/assets/images/news-microsoft.jpg"
+    },
+    {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "Advancing the price-performance frontier with GPT-5.6",
@@ -68,6 +88,16 @@
       "summaryEn": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and ",
       "url": "https://openai.com/index/avatarin",
       "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "Looking back on Microsoft&#8217;s FY26: From AI experimentation to Frontier Transformation",
+      "date": "2026-07-29",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world b",
+      "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -108,36 +138,6 @@
       "summaryEn": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discov",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：智能体与企业工作流",
-      "titleEn": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "date": "2026-07-28",
-      "summary": "Google AI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "date": "2026-07-28",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse",
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "5 ways AI Mode in Search helps you enjoy the real world",
-      "date": "2026-07-28",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book con",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
     }
   ]
 }
