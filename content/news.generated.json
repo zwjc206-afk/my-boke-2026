@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T01:30:06.300Z",
+  "generatedAt": "2026-08-04T01:19:47.550Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,26 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：语音智能与多模态交互",
+      "titleEn": "How we built a realtime system for responsive voice AI in six months",
+      "date": "2026-08-03",
+      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural c",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Circles powers telco personalization with OpenAI technology",
+      "date": "2026-08-03",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving deve",
+      "url": "https://openai.com/index/circles",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：AI产业动态",
@@ -117,26 +137,6 @@
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaborat",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "date": "2026-07-29",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "Scientific computing in the age of agentic AI",
-      "date": "2026-07-28",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discov",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
