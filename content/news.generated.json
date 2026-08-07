@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T01:21:20.824Z",
+  "generatedAt": "2026-08-07T02:01:25.319Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,46 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "date": "2026-08-06",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguin",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "date": "2026-08-06",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday cha",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Working with the American Psychological Association on youth mental health and AI",
+      "date": "2026-08-06",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and yout",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "From asking to doing: How the world is putting ChatGPT to work",
+      "date": "2026-08-06",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：网络安全与可信访问",
@@ -97,46 +137,6 @@
       "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
       "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：智能体与企业工作流",
-      "titleEn": "Inside our 353,000-person vibe coding course",
-      "date": "2026-08-03",
-      "summary": "Google AI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：语音智能与多模态交互",
-      "titleEn": "How we built a realtime system for responsive voice AI in six months",
-      "date": "2026-08-03",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural c",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Circles powers telco personalization with OpenAI technology",
-      "date": "2026-08-03",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving deve",
-      "url": "https://openai.com/index/circles",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Ten advances in mathematics and theoretical computer science",
-      "date": "2026-08-01",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cr",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
