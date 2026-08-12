@@ -1,183 +1,322 @@
 <!doctype html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="周威俊，AI专业导师、企业数字化增长顾问，以短视频、文章和全球AI资讯展示AI实战方法论。"
-    />
-    <meta name="keywords" content="周威俊, AI导师, 企业AI培训, 数字化转型, AI短视频, AI资讯" />
-    <meta property="og:title" content="周威俊 | AI Professional Mentor" />
-    <meta property="og:description" content="企业AI实战导师与数字化增长顾问的个人品牌官网。" />
-    <meta property="og:image" content="public/assets/images/hero-portrait.jpg" />
-    <title>周威俊 | AI Professional Mentor</title>
-    <link rel="stylesheet" href="styles.css" />
-    <style>
-      .hero-copy {
-        align-self: stretch;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        gap: clamp(42px, 8vw, 120px);
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>周威俊｜企业AI增长、Agent自动化与数字化落地</title>
+  <meta name="description" content="周威俊专注企业AI落地、AI Agent、工作流自动化、AI短视频、内容矩阵与门店数字化，帮助企业把AI真正转化为生产力、增长力与长期竞争力。" />
+  <meta name="keywords" content="周威俊, 企业AI落地, AI Agent, 工作流自动化, AI短视频, 内容矩阵, 门店数字化, 企业AI诊断" />
+  <meta property="og:title" content="周威俊｜企业AI增长、Agent自动化与数字化落地" />
+  <meta property="og:description" content="把 AI 真正变成企业的生产力和增长力。AI一天，人间一年。" />
+  <meta property="og:image" content="public/assets/images/hero-portrait.jpg" />
+  <meta name="theme-color" content="#050607" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- ============ NAV ============ -->
+  <header class="site-header" id="siteHeader">
+    <a class="brand" href="#top" aria-label="回到顶部">
+      <span class="brand-dot" aria-hidden="true"></span>
+      <span class="brand-name">周威俊</span>
+      <span class="brand-sub">AI × BUSINESS</span>
+    </a>
+    <nav class="nav-links" aria-label="主导航">
+      <a href="#top" class="nav-link is-active">首页</a>
+      <a href="enterprise.html" class="nav-link">企业AI</a>
+      <a href="growth.html" class="nav-link">AI内容增长</a>
+      <a href="cases.html" class="nav-link">案例</a>
+      <a href="insights.html" class="nav-link">AI洞察</a>
+      <a href="about.html" class="nav-link">关于我</a>
+    </nav>
+    <div class="nav-right">
+      <a href="#contact" class="btn btn-accent btn-sm">咨询合作</a>
+      <button class="nav-burger" type="button" aria-label="打开菜单" aria-expanded="false" id="navBurger">
+        <span></span><span></span>
+      </button>
+    </div>
+  </header>
+  <div class="mobile-menu" id="mobileMenu" aria-hidden="true">
+    <a href="#top">首页</a>
+    <a href="enterprise.html">企业AI</a>
+    <a href="growth.html">AI内容增长</a>
+    <a href="cases.html">案例</a>
+    <a href="insights.html">AI洞察</a>
+    <a href="about.html">关于我</a>
+    <a href="#contact" class="btn btn-accent">咨询合作</a>
+  </div>
 
-      .hero-manifesto {
-        max-width: 780px;
-        margin: clamp(18px, 4vw, 56px) 0 0;
-        color: var(--ink);
-        font-size: clamp(42px, 6.2vw, 106px);
-        line-height: 0.95;
-        font-weight: 820;
-        letter-spacing: 0;
-      }
-
-      .hero-manifesto::before {
-        content: "";
-        display: block;
-        width: clamp(96px, 14vw, 220px);
-        height: 6px;
-        margin-bottom: 24px;
-        background: var(--gold);
-      }
-
-      .hero-manifesto::after {
-        content: "AI IS ACCELERATING EVERYTHING";
-        display: block;
-        margin-top: 20px;
-        color: var(--gold);
-        font-size: clamp(12px, 1.1vw, 16px);
-        line-height: 1.2;
-        font-weight: 760;
-        letter-spacing: 0.08em;
-      }
-
-      @media (max-width: 820px) {
-        .hero-copy {
-          gap: 36px;
-        }
-
-        .hero-manifesto {
-          margin-top: 0;
-          font-size: clamp(44px, 14vw, 74px);
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <header class="site-header" aria-label="Primary navigation">
-      <a class="brand" href="#top" aria-label="Home">
-        <span class="brand-mark">ZWJ</span>
-        <span class="brand-text">AI Mentor</span>
-      </a>
-      <nav class="nav-links">
-        <a href="#videos" data-i18n="navVideos">讲课视频</a>
-        <a href="#articles" data-i18n="navArticles">文章</a>
-        <a href="#insights" data-i18n="navInsights">AI资讯</a>
-        <a href="#contact" data-i18n="navContact">合作咨询</a>
-      </nav>
-      <button class="language-toggle" type="button" data-language-toggle>EN</button>
-    </header>
-
-    <main id="top">
-      <section class="hero-section" aria-labelledby="hero-title">
-        <div class="hero-media">
-          <img src="public/assets/images/hero-portrait.jpg" alt="周威俊 AI专业导师个人形象" />
+  <main id="top">
+    <!-- ============ 01 HERO ============ -->
+    <section class="hero" aria-labelledby="heroTitle">
+      <canvas id="heroParticles" aria-hidden="true"></canvas>
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="hero-inner">
+        <p class="hero-eyebrow mono" data-decode>ZHOU WEIJUN — ENTERPRISE AI GROWTH ARCHITECT</p>
+        <h1 class="hero-manifesto" id="heroTitle">
+          <span class="manifesto-line">AI一天</span>
+          <span class="manifesto-line accent-line">人间一年</span>
+        </h1>
+        <p class="hero-role">周威俊｜企业 AI 增长与数字化落地顾问</p>
+        <p class="hero-tags mono">企业 AI 增长 · Agent 自动化 · 内容矩阵 · 门店数字化</p>
+        <p class="hero-mission">我长期专注一件事情：把 AI 从“会聊天的工具”，变成企业真正可以使用的生产力。</p>
+        <ul class="hero-caps" aria-label="核心能力">
+          <li>AI战略规划</li><li>AI Agent建设</li><li>AI工作流自动化</li>
+          <li>AI内容生产</li><li>短视频矩阵获客</li><li>门店数字化升级</li>
+        </ul>
+        <div class="hero-actions">
+          <a href="#services" class="btn btn-accent">了解企业AI解决方案</a>
+          <a href="#cases" class="btn btn-ghost">查看真实落地案例</a>
         </div>
-        <div class="hero-copy">
-          <p class="hero-manifesto" data-i18n="heroManifesto">AI一天 人间一年</p>
-          <div class="hero-intro">
-            <p class="eyebrow" data-i18n="heroEyebrow">AI专业导师 / 企业增长顾问</p>
-            <h1 id="hero-title" data-i18n="heroTitle">周威俊</h1>
-            <p class="hero-kicker" data-i18n="heroKicker">把 AI 从热点，变成企业增长系统。</p>
-            <p class="hero-body" data-i18n="heroBody">
-              面向企业负责人、经销商与内容团队，提供 AI 实战培训、数字人短视频体系、门店获客矩阵与企业智能体工作流设计。
-            </p>
-            <div class="hero-actions">
-              <a class="primary-link" href="#contact" data-i18n="heroCta">预约AI咨询</a>
-              <a class="secondary-link" href="#videos" data-i18n="heroSecondary">观看讲课片段</a>
-            </div>
-            <dl class="proof-strip" data-proof-strip></dl>
+      </div>
+      <a class="hero-scroll mono" href="#problems" aria-label="向下滚动">SCROLL<span class="scroll-line"></span></a>
+    </section>
+
+    <!-- ============ 信任带：合作过的企业 ============ -->
+    <section class="trust-band" aria-label="服务与合作过的企业">
+      <p class="trust-label mono">TRUSTED BY — 服务与合作过的企业</p>
+      <div class="logo-marquee" id="logoMarquee">
+        <div class="logo-track" id="logoTrack"></div>
+      </div>
+    </section>
+
+    <!-- ============ 02 四个问题 ============ -->
+    <section class="section" id="problems" aria-labelledby="problemsTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">01 / WHAT I SOLVE</p>
+        <h2 class="section-title" id="problemsTitle">我的工作正在解决什么问题</h2>
+        <p class="section-lede">AI不应该只是一个工具。真正有价值的AI，应该进入企业每天正在发生的工作。我现在重点推动四个方向。</p>
+      </div>
+      <div class="problems-wrap reveal">
+        <div class="problems-tabs" role="tablist" aria-label="四个方向" id="problemTabs">
+          <button class="problem-tab is-active" role="tab" aria-selected="true" data-index="0" type="button">
+            <span class="tab-index mono">01</span><span class="tab-name">企业 AI 化</span>
+          </button>
+          <button class="problem-tab" role="tab" aria-selected="false" data-index="1" type="button">
+            <span class="tab-index mono">02</span><span class="tab-name">门店数字化</span>
+          </button>
+          <button class="problem-tab" role="tab" aria-selected="false" data-index="2" type="button">
+            <span class="tab-index mono">03</span><span class="tab-name">AI内容增长</span>
+          </button>
+          <button class="problem-tab" role="tab" aria-selected="false" data-index="3" type="button">
+            <span class="tab-index mono">04</span><span class="tab-name">企业增长</span>
+          </button>
+        </div>
+        <div class="problem-panel" id="problemPanel" role="tabpanel" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <!-- ============ 03 六大服务 ============ -->
+    <section class="section section-alt" id="services" aria-labelledby="servicesTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">02 / SERVICES</p>
+        <h2 class="section-title" id="servicesTitle">我的企业服务</h2>
+        <p class="section-lede">从一个AI工具，到一套真正能够运行的AI生产力系统。</p>
+      </div>
+      <div class="services-grid" id="servicesGrid"></div>
+    </section>
+
+    <!-- ============ AI内容增长（导航锚点区） ============ -->
+    <section class="section growth-band" id="growth" aria-labelledby="growthTitle">
+      <div class="growth-grid">
+        <div class="growth-copy reveal">
+          <p class="eyebrow mono">03 / CONTENT GROWTH</p>
+          <h2 class="section-title" id="growthTitle">从“一个人做内容”<br/>到“企业AI内容工厂”</h2>
+          <p class="growth-body">过去：一个人，拍一个视频，剪一个视频，运营一个账号。<br/>现在：一个内容中台 × AI批量生产 × 多门店 × 多账号 × 多城市分发。</p>
+          <div class="growth-pipeline mono" id="growthPipeline" aria-label="内容增长闭环">
+            <span>内容生产</span><i>→</i><span>矩阵分发</span><i>→</i><span>流量获取</span><i>→</i><span>客户线索</span><i>→</i><span>销售转化</span>
+          </div>
+          <a href="#contact" class="btn btn-ghost">搭建我的内容矩阵</a>
+        </div>
+        <div class="growth-visual reveal" aria-hidden="true">
+          <div class="matrix-grid" id="matrixGrid"></div>
+          <p class="growth-visual-cap mono">一套内容系统 · 服务几十个门店 · 运营几十个账号</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 04 方法论 ============ -->
+    <section class="section section-alt" id="methodology" aria-labelledby="methodTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">04 / METHODOLOGY</p>
+        <h2 class="section-title" id="methodTitle">我的核心方法论：<span class="accent">AI × BUSINESS</span></h2>
+        <p class="section-lede">AI不是一个部门，未来AI会进入每一个部门。我的方法不是从AI技术出发，而是从业务出发，重新设计企业工作方式。</p>
+      </div>
+      <div class="method-chain reveal" id="methodChain"></div>
+      <div class="method-detail" id="methodDetail" aria-live="polite"></div>
+    </section>
+
+    <!-- ============ 05 落地框架 ============ -->
+    <section class="section" id="framework" aria-labelledby="frameworkTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">05 / FRAMEWORK</p>
+        <h2 class="section-title" id="frameworkTitle">我的AI落地框架</h2>
+        <p class="section-lede">八个步骤，从发现问题到规模复制。点击查看每一步做什么。</p>
+      </div>
+      <ol class="framework-track reveal" id="frameworkTrack"></ol>
+      <div class="framework-detail" id="frameworkDetail" aria-live="polite"></div>
+    </section>
+
+    <!-- ============ 案例：AI落地实验室 ============ -->
+    <section class="section section-alt" id="cases" aria-labelledby="casesTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">06 / AI LAB</p>
+        <h2 class="section-title" id="casesTitle">AI落地实验室</h2>
+        <p class="section-lede">不是作品展示，而是正在实践的项目——每一个都在回答同一个问题：AI如何进入真实业务。</p>
+      </div>
+      <div class="lab-grid" id="labGrid"></div>
+
+      <div class="cases-sub reveal">
+        <h3 class="sub-title">真实影像<span class="mono sub-en">— REAL FOOTAGE</span></h3>
+        <p class="sub-lede">真实，比科技感更有说服力。以下是实拍讲课、培训与项目现场。</p>
+      </div>
+      <div class="video-grid" id="videoGrid"></div>
+      <div class="gallery-strip" id="galleryStrip"></div>
+    </section>
+
+    <!-- ============ 06 关于我 ============ -->
+    <section class="section" id="about" aria-labelledby="aboutTitle">
+      <div class="about-grid">
+        <div class="about-media reveal">
+          <img src="public/assets/images/portrait-editorial.jpg" alt="周威俊" loading="lazy" />
+          <img class="about-stage" src="public/assets/images/keynote-stage.jpg" alt="周威俊讲课现场" loading="lazy" />
+        </div>
+        <div class="about-copy reveal">
+          <p class="eyebrow mono">07 / ABOUT</p>
+          <h2 class="section-title" id="aboutTitle">关于周威俊</h2>
+          <p class="about-lede">企业AI实践者、数字化增长推动者。现阶段主要研究：<strong>AI如何真正进入企业经营。</strong></p>
+          <p class="about-body">长期参与企业数字化、品牌、内容、营销、产品、系统建设。因此我关注AI的角度与单纯技术人员不同——我很少讨论哪个模型跑分最高，我更关心：这个AI能不能进入业务，能不能帮助员工提高效率，能不能降低成本，能不能帮助企业获得客户，能不能形成长期竞争力。</p>
+          <blockquote class="about-quote">“AI的真正竞争，不是模型竞争，而是企业应用能力的竞争。”</blockquote>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ 07 AI一天，人间一年 + 内容栏目 ============ -->
+    <section class="section mantra-band" id="mantra" aria-labelledby="mantraTitle">
+      <div class="mantra-inner reveal">
+        <p class="eyebrow mono">08 / IP — AI一天，人间一年</p>
+        <h2 class="mantra-title" id="mantraTitle">企业缺的不是AI新闻，<br/>而是<span class="accent">判断</span>。</h2>
+        <p class="mantra-body">每天都有新模型、新Agent、新视频技术、新机器人、新工作方式。哪些值得关注？哪些只是噱头？哪些可以马上使用？哪些会改变企业、改变行业？<strong>「AI一天，人间一年」</strong>专注帮助更多企业管理者理解AI真正正在发生什么。</p>
+        <div class="mantra-lines" aria-label="核心主张">
+          <p>用 AI 重构效率</p>
+          <p>用内容重构增长</p>
+          <p>用数字化重构门店</p>
+        </div>
+      </div>
+      <div class="columns-grid reveal" id="columnsGrid" aria-label="内容栏目"></div>
+    </section>
+
+    <!-- ============ 08 最新AI洞察 ============ -->
+    <section class="section section-alt" id="insights" aria-labelledby="insightsTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">09 / DAILY AI RADAR</p>
+        <h2 class="section-title" id="insightsTitle">最新AI洞察</h2>
+        <p class="section-lede">每天自动更新来自 OpenAI、Google AI、NVIDIA、Microsoft AI 的官方动态，并附上我的企业视角解读。</p>
+      </div>
+      <div class="news-toolbar reveal">
+        <div class="news-filters" id="newsFilters" role="group" aria-label="按来源筛选"></div>
+        <span class="news-updated mono" id="newsUpdated"></span>
+      </div>
+      <div class="news-grid" id="newsGrid"></div>
+    </section>
+
+    <!-- ============ 09 企业AI诊断（交互自测） ============ -->
+    <section class="section diag-band" id="diagnostic" aria-labelledby="diagTitle">
+      <div class="section-head reveal">
+        <p class="eyebrow mono">10 / AI READINESS CHECK</p>
+        <h2 class="section-title" id="diagTitle">60秒企业AI就绪度自测</h2>
+        <p class="section-lede">回答 5 个问题，立即看到你的AI就绪度评级，以及最应该先启动的落地方向。</p>
+      </div>
+      <div class="quiz reveal" id="quiz" data-state="intro">
+        <div class="quiz-intro" id="quizIntro">
+          <p class="quiz-intro-line mono">5 QUESTIONS · 60 SECONDS · INSTANT RESULT</p>
+          <button class="btn btn-accent btn-lg" id="quizStart" type="button">开始自测</button>
+        </div>
+        <div class="quiz-body" id="quizBody" hidden>
+          <div class="quiz-progress"><div class="quiz-progress-bar" id="quizProgressBar"></div></div>
+          <p class="quiz-step mono" id="quizStep"></p>
+          <h3 class="quiz-question" id="quizQuestion"></h3>
+          <div class="quiz-options" id="quizOptions"></div>
+          <button class="quiz-back mono" id="quizBack" type="button">← 上一题</button>
+        </div>
+        <div class="quiz-result" id="quizResult" hidden>
+          <p class="result-level mono" id="resultLevel"></p>
+          <h3 class="result-title" id="resultTitle"></h3>
+          <p class="result-desc" id="resultDesc"></p>
+          <div class="result-rec" id="resultRec"></div>
+          <div class="quiz-result-actions">
+            <a href="#contact" class="btn btn-accent">预约企业AI诊断</a>
+            <button class="btn btn-ghost" id="quizRestart" type="button">重新测试</button>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <section class="editorial-band authority-section" aria-labelledby="authority-title">
-        <div class="section-heading">
-          <p class="eyebrow" data-i18n="authorityEyebrow">Authority</p>
-          <h2 id="authority-title" data-i18n="authorityTitle">企业AI落地，不止讲概念。</h2>
+    <!-- ============ 适合的企业 + 合作方式 ============ -->
+    <section class="section section-alt" id="cooperation" aria-labelledby="coopTitle">
+      <div class="coop-grid">
+        <div class="coop-audience reveal">
+          <p class="eyebrow mono">11 / WHO I SERVE</p>
+          <h2 class="section-title" id="coopTitle">更适合以下企业</h2>
+          <ul class="audience-list" id="audienceList"></ul>
         </div>
-        <div class="authority-grid">
-          <div class="authority-copy">
-            <p data-i18n="authorityBody">
-              从战略认知、内容生产、培训交付到组织流程，形成可复制的 AI 增长闭环。网站会持续沉淀课程短视频、文章观点和每日全球AI资讯，让客户快速判断你的专业深度与合作价值。
-            </p>
-            <div class="expertise-list" data-expertise-list></div>
-          </div>
-          <div class="partner-wall" aria-label="合作企业 Logo" data-partner-wall></div>
+        <div class="coop-steps reveal">
+          <p class="eyebrow mono">12 / HOW WE WORK</p>
+          <h2 class="section-title">合作方式</h2>
+          <ol class="coop-track" id="coopTrack"></ol>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <section class="portfolio-section" aria-labelledby="gallery-title">
-        <div class="section-heading compact">
-          <p class="eyebrow" data-i18n="galleryEyebrow">Visual Identity</p>
-          <h2 id="gallery-title" data-i18n="galleryTitle">用影像建立第一信任。</h2>
+    <!-- ============ 10 最终成交区 ============ -->
+    <section class="section closing-band" id="contact" aria-labelledby="closingTitle">
+      <div class="closing-inner reveal">
+        <p class="eyebrow mono">13 / THE VALUE</p>
+        <h2 class="section-title" id="closingTitle">AI真正的价值</h2>
+        <p class="closing-lede">不是让企业多一个软件，而是——</p>
+        <div class="value-lines">
+          <div class="value-line"><span class="v-less">少一些重复工作。</span><span class="v-more">多一些高价值工作。</span></div>
+          <div class="value-line"><span class="v-less">少一些人工成本。</span><span class="v-more">多一些内容和客户。</span></div>
+          <div class="value-line"><span class="v-less">少一些低效率流程。</span><span class="v-more">多一套企业真正属于自己的AI能力。</span></div>
         </div>
-        <div class="image-gallery" data-image-gallery></div>
-      </section>
+        <div class="closing-questions">
+          <p>我们的企业应该怎样用AI？</p>
+          <p>哪些岗位可以AI化？</p>
+          <p>Agent到底应该怎么做？</p>
+          <p>短视频怎么批量生产？</p>
+          <p>几十家门店如何一起做内容？</p>
+          <p>AI怎么真正带来客户？</p>
+        </div>
+        <h3 class="closing-cta-title">如果你正在思考这些问题，<br/>我们可以从一次<strong>企业 AI 诊断</strong>开始。</h3>
+        <div class="hero-actions">
+          <a href="mailto:66812127@qq.com?subject=企业AI诊断预约" class="btn btn-accent btn-lg">预约交流</a>
+        </div>
+        <div class="contact-panel mono">
+          <a href="mailto:66812127@qq.com">66812127@qq.com</a>
+          <a href="tel:18923160002">189 2316 0002</a>
+          <span>WeChat / 视频号 / LinkedIn</span>
+        </div>
+      </div>
+    </section>
+  </main>
 
-      <section id="videos" class="content-section dark-section" aria-labelledby="videos-title">
-        <div class="section-heading">
-          <p class="eyebrow" data-i18n="videosEyebrow">Teaching Videos</p>
-          <h2 id="videos-title" data-i18n="videosTitle">讲课、演示、短视频样片。</h2>
-        </div>
-        <div class="video-grid" data-video-grid></div>
-      </section>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-brand">周威俊｜企业 AI 增长架构师</p>
+      <p class="footer-mantra mono">AI一天，人间一年</p>
+      <p class="footer-meta">© 2026 Zhou Weijun · 用 AI 重构效率 · 用内容重构增长 · 用数字化重构门店</p>
+    </div>
+  </footer>
 
-      <section id="articles" class="content-section" aria-labelledby="articles-title">
-        <div class="section-heading">
-          <p class="eyebrow" data-i18n="articlesEyebrow">Articles</p>
-          <h2 id="articles-title" data-i18n="articlesTitle">文章观点与方法论。</h2>
-        </div>
-        <div class="article-grid" data-article-grid></div>
-      </section>
+  <!-- 视频灯箱 -->
+  <div class="lightbox" id="videoLightbox" aria-hidden="true" role="dialog" aria-label="视频播放">
+    <button class="lightbox-close" id="lightboxClose" type="button" aria-label="关闭">✕</button>
+    <div class="lightbox-frame" id="lightboxFrame"></div>
+  </div>
 
-      <section id="insights" class="content-section insights-section" aria-labelledby="insights-title">
-        <div class="section-heading">
-          <p class="eyebrow" data-i18n="insightsEyebrow">Daily AI Radar</p>
-          <h2 id="insights-title" data-i18n="insightsTitle">每天更新全球AI资讯。</h2>
-        </div>
-        <div class="news-toolbar">
-          <span data-news-updated></span>
-          <a href="content/news.generated.json" data-i18n="newsSourceLink">查看数据源</a>
-        </div>
-        <div class="news-grid" data-news-grid></div>
-      </section>
-
-      <section id="contact" class="contact-section" aria-labelledby="contact-title">
-        <div class="contact-image">
-          <img src="public/assets/images/visual-contact-diagnostic.jpg" alt="AI合作诊断流程配图" />
-        </div>
-        <div class="contact-copy">
-          <p class="eyebrow" data-i18n="contactEyebrow">Collaboration</p>
-          <h2 id="contact-title" data-i18n="contactTitle">让客户在3分钟内理解你能解决什么问题。</h2>
-          <p data-i18n="contactBody">
-            可用于企业内训、经销商AI获客培训、短视频矩阵搭建、数字人内容工厂和AI工作流咨询。替换这里的联系方式后，即可作为对外宣传主页。
-          </p>
-          <div class="contact-panel">
-            <a href="mailto:66812127@qq.com">66812127@qq.com</a>
-            <a href="tel:18923160002">18923160002</a>
-            <span>WeChat / Video Channel / LinkedIn</span>
-          </div>
-        </div>
-      </section>
-    </main>
-
-    <footer class="site-footer">
-      <span>© 2026 ZWJ AI Mentor</span>
-      <span data-i18n="footerLine">AI strategy, content systems, and practical training.</span>
-    </footer>
-
-    <script src="app.js"></script>
-  </body>
+  <script src="common.js"></script>
+  <script src="app.js"></script>
+</body>
 </html>
