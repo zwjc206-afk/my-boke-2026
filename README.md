@@ -5,10 +5,10 @@
 ## 快速预览
 
 ```bash
-python3 -m http.server 4173
+python3 -m http.server 4174
 ```
 
-打开 `http://localhost:4173`。
+打开 `http://localhost:4174`。
 
 ## 日常维护
 
