@@ -186,24 +186,37 @@ strong { color: var(--ink); font-weight: 600; }
   justify-content: center;
   padding: 110px 24px 80px;
   overflow: hidden;
+  background:
+    linear-gradient(90deg, rgba(5,6,7,0.96) 0%, rgba(5,6,7,0.82) 45%, rgba(5,6,7,0.58) 100%),
+    image-set(url("public/assets/images/keynote-stage.jpg") type("image/jpeg"));
+  background-size: cover;
+  background-position: center right;
 }
-#heroParticles { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0.75; }
+#heroParticles { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0.42; mix-blend-mode: screen; }
 .hero-glow {
   position: absolute;
   top: 26%; left: 50%;
   width: min(900px, 90vw); height: 520px;
   transform: translate(-50%, -50%);
-  background: radial-gradient(ellipse at center, rgba(53, 230, 192, 0.09), transparent 65%);
+  background: radial-gradient(ellipse at center, rgba(53, 230, 192, 0.13), transparent 65%);
   pointer-events: none;
 }
-.hero-inner { position: relative; z-index: 2; max-width: 860px; text-align: center; }
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 34%;
+  background: linear-gradient(to bottom, transparent, var(--bg));
+  pointer-events: none;
+}
+.hero-inner { position: relative; z-index: 2; width: min(100%, var(--max-w)); text-align: left; }
 
 .hero-eyebrow { font-size: 11px; letter-spacing: 0.3em; color: var(--ink-4); margin-bottom: 28px; min-height: 1.4em; }
 
 .hero-manifesto { margin-bottom: 26px; }
 .manifesto-line {
   display: block;
-  font-size: clamp(52px, 10.5vw, 118px);
+  font-size: clamp(48px, 8vw, 96px);
   font-weight: 900;
   line-height: 1.04;
   letter-spacing: 0.01em;
@@ -218,12 +231,12 @@ strong { color: var(--ink); font-weight: 600; }
 
 .hero-role { font-size: clamp(16px, 2vw, 20px); color: var(--ink-2); font-weight: 500; margin-bottom: 10px; }
 .hero-tags { font-size: 12px; letter-spacing: 0.08em; color: var(--ink-4); margin-bottom: 26px; }
-.hero-mission { max-width: 560px; margin: 0 auto 30px; color: var(--ink-3); font-size: 16px; }
+.hero-mission { max-width: 560px; margin: 0 0 30px; color: var(--ink-2); font-size: 17px; }
 
 .hero-caps {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 8px;
   list-style: none;
   margin-bottom: 38px;
@@ -239,7 +252,46 @@ strong { color: var(--ink); font-weight: 600; }
 }
 .hero-caps li:hover { border-color: var(--accent-line); color: var(--accent); }
 
-.hero-actions { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+.hero-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 180px));
+  gap: 10px;
+  margin: 0 0 34px;
+}
+.hero-metrics span {
+  display: block;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: rgba(5, 6, 7, 0.48);
+  color: var(--ink-3);
+  font-size: 12px;
+  line-height: 1.45;
+  backdrop-filter: blur(10px);
+}
+.hero-metrics strong {
+  display: block;
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: 22px;
+  line-height: 1.1;
+  margin-bottom: 5px;
+}
+.hero-actions { display: flex; gap: 14px; justify-content: flex-start; flex-wrap: wrap; }
+.hero-visual-label {
+  position: absolute;
+  right: clamp(24px, 5vw, 72px);
+  bottom: 108px;
+  z-index: 2;
+  padding: 10px 14px;
+  border: 1px solid var(--accent-line);
+  border-radius: 8px;
+  color: var(--accent);
+  background: rgba(5, 6, 7, 0.62);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  backdrop-filter: blur(10px);
+}
 
 .hero-scroll {
   position: absolute;
@@ -268,6 +320,41 @@ strong { color: var(--ink); font-weight: 600; }
 .logo-item:hover { opacity: 1; filter: grayscale(0.2); }
 .logo-item img { height: 34px; width: auto; object-fit: contain; }
 .logo-item span { font-size: 14px; color: var(--ink-2); white-space: nowrap; }
+
+/* ============ 核心判断 ============ */
+.signal-strip {
+  padding: 22px 24px;
+  background: #070909;
+  border-bottom: 1px solid var(--border-subtle);
+}
+.signal-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.signal-inner article {
+  min-height: 150px;
+  padding: 24px 24px 22px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: linear-gradient(180deg, rgba(255,255,255,0.035), rgba(255,255,255,0.012));
+}
+.signal-inner span {
+  display: block;
+  margin-bottom: 18px;
+  color: var(--accent);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+}
+.signal-inner h2 {
+  color: var(--ink);
+  font-size: clamp(17px, 1.8vw, 22px);
+  line-height: 1.55;
+  font-weight: 700;
+  letter-spacing: 0;
+}
 
 /* ============ 02 四个问题（tab 交互） ============ */
 .problems-wrap { max-width: var(--max-w); margin: 0 auto; }
@@ -853,6 +940,7 @@ strong { color: var(--ink); font-weight: 600; }
   .columns-grid { grid-template-columns: repeat(2, 1fr); }
   .framework-track { grid-template-columns: repeat(2, 1fr); }
   .about-grid, .growth-grid, .coop-grid { grid-template-columns: 1fr; }
+  .signal-inner { grid-template-columns: 1fr; }
   .about-media { max-width: 480px; }
   .panel-body { grid-template-columns: 1fr; }
 }
@@ -872,6 +960,11 @@ strong { color: var(--ink); font-weight: 600; }
   .gallery-item { aspect-ratio: 16 / 10; }
   .footer-inner { flex-direction: column; text-align: center; }
   .value-line { flex-direction: column; align-items: center; gap: 6px; }
+  .hero { background-position: center; }
+  .hero::before { content: ""; position: absolute; inset: 0; background: rgba(5, 6, 7, 0.28); pointer-events: none; }
+  .hero-inner { text-align: left; }
+  .hero-metrics { grid-template-columns: 1fr; }
+  .hero-visual-label { display: none; }
 }
 
 @media (max-width: 520px) {
