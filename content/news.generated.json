@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:57:26.168Z",
+  "generatedAt": "2026-08-15T00:33:45.111Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：AI产业动态",
+      "titleEn": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "date": "2026-08-14",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchis",
+      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Launching-Ceremony-2-1-scaled.jpeg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
@@ -128,16 +138,6 @@
       "summaryEn": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s dep",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 开始测试 ChatGPT 广告形态",
-      "titleEn": "Testing ads in ChatGPT",
-      "date": "2026-08-11",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user ",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
