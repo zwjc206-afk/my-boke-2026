@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T05:30:02.089Z",
+  "generatedAt": "2026-08-28T07:26:01.674Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -20,6 +20,46 @@
   ],
   "items": [
     {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：AI产业动态",
+      "titleEn": "3 new ways to plan and book travel in Search",
+      "date": "2026-08-27",
+      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+      "date": "2026-08-27",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/vera-key-visual-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "date": "2026-08-27",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world uni",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Expanding OpenAI’s presence in Brazil",
+      "date": "2026-08-27",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across ",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
       "titleEn": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
@@ -28,6 +68,16 @@
       "summaryEn": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performan",
       "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-corp-blog-nvhbm-1280x680-5547600.jpg"
+    },
+    {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "Accelerating Frontier Transformation: Reinvent customer engagement",
+      "date": "2026-08-26",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Discover how organizations use AI to personalize engagement, strengthen relationships, and deliver more responsive experiences at scale. The",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
+      "image": "public/assets/images/news-microsoft.jpg"
     },
     {
       "source": "OpenAI",
@@ -70,6 +120,16 @@
       "image": "public/assets/images/news-openai.jpg"
     },
     {
+      "source": "Microsoft AI",
+      "title": "Microsoft AI 最新动态：算力基础设施",
+      "titleEn": "Accelerating AI adoption with intelligent discovery in Microsoft Marketplace",
+      "date": "2026-08-25",
+      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Discover how Microsoft Marketplace intelligent discovery helps organizations find, compare, and adopt AI solutions faster and with confidenc",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/",
+      "image": "public/assets/images/news-microsoft.jpg"
+    },
+    {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "The full stack behind abundant intelligence",
@@ -78,66 +138,6 @@
       "summaryEn": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at gre",
       "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "date": "2026-08-25",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower la",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Disrupting a new covert influence campaign from Russia",
-      "date": "2026-08-25",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and critic",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "date": "2026-08-25",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin ",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：网络安全与可信访问",
-      "titleEn": "5 signals of trusted AI: How organizations scale AI with security, governance, and observability",
-      "date": "2026-08-24",
-      "summary": "Microsoft AI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Learn the five signals of trusted AI, from AI governance and security to observability and sovereignty, and discover how organizations scale",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/",
-      "image": "public/assets/images/news-microsoft.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：算力基础设施",
-      "titleEn": "How XPUs Meet a World-Class AI Factory",
-      "date": "2026-08-24",
-      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, to",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nvidia-dsx-maxlps-fg-i4of6-d-scaled.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "date": "2026-08-24",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the A",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-scaled.png"
     }
   ]
 }
