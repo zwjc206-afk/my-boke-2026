@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T01:46:33.251Z",
+  "generatedAt": "2026-09-06T01:41:04.329Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -58,6 +58,16 @@
       "summaryEn": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform,",
       "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "GPT-6 Astra: A new generation of intelligence",
+      "date": "2026-09-03",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cyberse",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "image": "public/assets/images/news-openai.jpg"
     },
     {
       "source": "OpenAI",
@@ -128,16 +138,6 @@
       "summaryEn": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：网络安全与可信访问",
-      "titleEn": "Path to Astra: critical capabilities and frontier safeguards",
-      "date": "2026-09-01",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safe",
-      "url": "https://openai.com/index/path-to-astra",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
