@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:38:39.648Z",
+  "generatedAt": "2026-09-08T01:49:35.741Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Supporting independent journalism in Ukraine",
+      "date": "2026-09-07",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent jou",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
@@ -128,16 +138,6 @@
       "summaryEn": "Microsoft's 2026 Responsible AI Transparency Report highlights the progress we’ve made in building and deploying AI responsibly, supporting ",
       "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/",
       "image": "public/assets/images/news-microsoft.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "How AI-native companies turn workflows into operating capability",
-      "date": "2026-09-01",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders c",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
