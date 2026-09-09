@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T01:49:35.741Z",
+  "generatedAt": "2026-09-09T01:55:24.693Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,56 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "date": "2026-09-08",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubi",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Introducing ChatGPT Images 2.5",
+      "date": "2026-09-08",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your id",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Funding grants for new research into AI and teen development",
+      "date": "2026-09-08",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, a",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "date": "2026-09-08",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizatio",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "1Password increases engineering productivity 21% with Codex",
+      "date": "2026-09-08",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous ",
+      "url": "https://openai.com/index/1password",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：AI产业动态",
@@ -88,56 +138,6 @@
       "summaryEn": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cyberse",
       "url": "https://openai.com/index/gpt-6-astra",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：网络安全与可信访问",
-      "titleEn": "Safety overview: GPT-6 Astra",
-      "date": "2026-09-03",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Prepa",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "date": "2026-09-02",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory websi",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：网络安全与可信访问",
-      "titleEn": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "date": "2026-09-01",
-      "summary": "NVIDIA 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Atta",
-      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：AI产业动态",
-      "titleEn": "The latest AI news we announced in August 2026",
-      "date": "2026-09-01",
-      "summary": "Google AI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Here are Google’s latest AI updates from August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：算力基础设施",
-      "titleEn": "Responsible AI in 2026: How we are adapting for what’s ahead",
-      "date": "2026-09-01",
-      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Microsoft's 2026 Responsible AI Transparency Report highlights the progress we’ve made in building and deploying AI responsibly, supporting ",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/",
-      "image": "public/assets/images/news-microsoft.jpg"
     }
   ]
 }
