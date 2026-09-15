@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:06:20.484Z",
+  "generatedAt": "2026-09-15T02:13:14.099Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：智能体与企业工作流",
+      "titleEn": "DevFest is back",
+      "date": "2026-09-14",
+      "summary": "Google AI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic A",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "date": "2026-09-14",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Port",
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Local-AI_Perplexity-on-Windows_Blog_Feature.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：语音智能与多模态交互",
+      "titleEn": "How Fyxer built an AI executive assistant people trust",
+      "date": "2026-09-14",
+      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
@@ -107,36 +137,6 @@
       "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense ",
       "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：语音智能与多模态交互",
-      "titleEn": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "date": "2026-09-10",
-      "summary": "OpenAI 发布与「语音智能与多模态交互」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony sup",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "Introducing the Agents API",
-      "date": "2026-09-10",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, ",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：网络安全与可信访问",
-      "titleEn": "Paul Christiano joins OpenAI Foundation Board",
-      "date": "2026-09-09",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and st",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
