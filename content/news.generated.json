@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:01:24.329Z",
+  "generatedAt": "2026-09-20T02:05:34.865Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -28,6 +28,16 @@
       "summaryEn": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Introducing the Australian Youth Safety Blueprint",
+      "date": "2026-09-18",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "image": "public/assets/images/news-openai.jpg"
     },
     {
       "source": "OpenAI",
@@ -128,16 +138,6 @@
       "summaryEn": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work",
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "date": "2026-09-16",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights ",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Is-AI-Poll-01_1920x1080.jpg"
     }
   ]
 }
