@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:58:30.838Z",
+  "generatedAt": "2026-09-25T02:15:06.692Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -72,6 +72,16 @@
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "date": "2026-09-23",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
       "date": "2026-09-23",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
@@ -128,16 +138,6 @@
       "summaryEn": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and saf",
       "url": "https://openai.com/index/priorities-principles-third-party-assessments",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "date": "2026-09-21",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and ",
-      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/end-to-end-press-dsx-ready-kv-1920x1080-1.png"
     }
   ]
 }
