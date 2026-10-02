@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:52:16.652Z",
+  "generatedAt": "2026-10-02T02:54:33.541Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,46 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "date": "2026-10-01",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Ac",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "How Albertsons Companies is reimagining retail from the inside out",
+      "date": "2026-10-01",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of cu",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "date": "2026-10-01",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will",
+      "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/fungibility-blog-1280x680-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "date": "2026-10-01",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours",
+      "url": "https://openai.com/index/the-den-family-social",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -97,46 +137,6 @@
       "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignm",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "date": "2026-09-28",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits ",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Are you a Codex Original?",
-      "date": "2026-09-28",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to ",
-      "url": "https://openai.com/form/codex-originals",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Two years of OpenAI Academy",
-      "date": "2026-09-23",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：网络安全与可信访问",
-      "titleEn": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "date": "2026-09-23",
-      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
