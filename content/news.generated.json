@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:26:56.634Z",
+  "generatedAt": "2026-10-10T03:06:28.777Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,26 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "date": "2026-10-09",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving huma",
+      "url": "https://openai.com/index/sophos",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "date": "2026-10-09",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：智能体与企业工作流",
@@ -118,26 +138,6 @@
       "summaryEn": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telco",
       "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/image1.png"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "How Jump Trading is scaling quant research with ChatGPT",
-      "date": "2026-10-06",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human revie",
-      "url": "https://openai.com/index/jump-trading",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Sharing AI progress in mathematics",
-      "date": "2026-10-06",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and resear",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
