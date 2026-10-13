@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T03:02:06.767Z",
+  "generatedAt": "2026-10-13T04:17:38.056Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "date": "2026-10-12",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry ",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：网络安全与可信访问",
@@ -128,16 +138,6 @@
       "summaryEn": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and de",
       "url": "https://openai.com/index/atlassian-partnership",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "date": "2026-10-06",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telco",
-      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/image1.png"
     }
   ]
 }
