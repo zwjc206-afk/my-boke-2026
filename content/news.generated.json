@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T04:17:38.056Z",
+  "generatedAt": "2026-10-14T02:29:03.320Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "Google AI",
+      "title": "Google AI 最新动态：模型能力与API应用",
+      "titleEn": "Gemini 4 Argon: Built to solve your hardest problems",
+      "date": "2026-10-13",
+      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：AI产业动态",
+      "titleEn": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "date": "2026-10-13",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal A",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA Announces New Investments in France’s Startups",
+      "date": "2026-10-13",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific r",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/france-ai-ecosystem-gtc-berlin-updated.jpeg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：算力基础设施",
@@ -107,36 +137,6 @@
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen A",
       "url": "https://openai.com/index/teens-learn-and-plan",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "date": "2026-10-07",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while ",
-      "url": "https://openai.com/index/radisson",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "GPT-6 and Intelligent UI for everyone",
-      "date": "2026-10-07",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can e",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "date": "2026-10-06",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and de",
-      "url": "https://openai.com/index/atlassian-partnership",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
