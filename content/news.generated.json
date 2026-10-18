@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:55:06.337Z",
+  "generatedAt": "2026-10-18T01:53:51.310Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：AI产业动态",
+      "titleEn": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "date": "2026-10-17",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI pla",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
@@ -128,16 +138,6 @@
       "summaryEn": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their ",
       "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/uk-ecosystem-industries.png"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "date": "2026-10-14",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficie",
-      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc-berlin-smart-cities-blog.jpg"
     }
   ]
 }
