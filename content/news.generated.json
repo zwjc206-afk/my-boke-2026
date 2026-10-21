@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:26:11.036Z",
+  "generatedAt": "2026-10-21T02:19:56.715Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,46 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "date": "2026-10-20",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flo",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "date": "2026-10-20",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：AI产业动态",
+      "titleEn": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "date": "2026-10-20",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives star",
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/spain-startups-bsc-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "OpenAI acquires Orchestra Bio",
+      "date": "2026-10-20",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development a",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：机器人与自动化",
@@ -98,46 +138,6 @@
       "summaryEn": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accur",
       "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765.jpeg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "date": "2026-10-15",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeli",
-      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-in-science-enablers-1920x1080-1.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "date": "2026-10-15",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "Amp puts AI agents to work beyond code with OpenAI models",
-      "date": "2026-10-14",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "SentinelOne cuts malware analysis from weeks to hours",
-      "date": "2026-10-14",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "url": "https://openai.com/index/sentinelone",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
