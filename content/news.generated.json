@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:14:42.753Z",
+  "generatedAt": "2026-10-23T02:20:18.598Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -20,6 +20,116 @@
   ],
   "items": [
     {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Kazakhstan Expands Compute for Its AI Future",
+      "date": "2026-10-23",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastruc",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Build more responsive apps with the Decisions API",
+      "date": "2026-10-22",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Fast, focused, low-cost decisions for any application.",
+      "url": "https://openai.com/index/decisions-api",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings to",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "What FDE means at OpenAI",
+      "date": "2026-10-22",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "What forward deployed engineering means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NV",
+      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded th",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one s",
+      "url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90",
+      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators ",
+      "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "date": "2026-10-22",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path fo",
+      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "date": "2026-10-22",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete com",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：AI产业动态",
       "titleEn": "Broad access through consistent standards",
@@ -28,116 +138,6 @@
       "summaryEn": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usa",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "How AT&T is rethinking in-house legal work with OpenAI",
-      "date": "2026-10-21",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal ju",
-      "url": "https://openai.com/index/att-legal",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "date": "2026-10-21",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "OpenAI models are coming to Google Cloud",
-      "date": "2026-10-21",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplac",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Win",
-      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, op",
-      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NV",
-      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：机器人与自动化",
-      "titleEn": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific ",
-      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cuDSS_GTCBerlin.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’",
-      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the op",
-      "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and ",
-      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-scaled.png"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "date": "2026-10-21",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permane",
-      "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/jhh-keynote-kv-1920x1080-1.jpg"
     }
   ]
 }
