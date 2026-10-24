@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:20:18.598Z",
+  "generatedAt": "2026-10-24T02:18:00.225Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -20,6 +20,26 @@
   ],
   "items": [
     {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "date": "2026-10-23",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Securing our frontier model training environment",
+      "date": "2026-10-23",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute ",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
       "source": "NVIDIA Blog",
       "title": "NVIDIA AI 最新动态：模型能力与API应用",
       "titleEn": "Kazakhstan Expands Compute for Its AI Future",
@@ -28,6 +48,16 @@
       "summaryEn": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastruc",
       "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：网络安全与可信访问",
+      "titleEn": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "date": "2026-10-23",
+      "summary": "OpenAI 发布与「网络安全与可信访问」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "image": "public/assets/images/news-openai.jpg"
     },
     {
       "source": "OpenAI",
@@ -108,36 +138,6 @@
       "summaryEn": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators ",
       "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：模型能力与API应用",
-      "titleEn": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "date": "2026-10-22",
-      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path fo",
-      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "date": "2026-10-22",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete com",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Broad access through consistent standards",
-      "date": "2026-10-21",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usa",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
