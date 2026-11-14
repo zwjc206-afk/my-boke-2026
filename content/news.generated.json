@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:54:23.498Z",
+  "generatedAt": "2026-11-14T03:52:57.613Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Introducing ChatGPT Wallet",
+      "date": "2026-11-13",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing c",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：AI产业动态",
+      "titleEn": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "date": "2026-11-13",
+      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health sy",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "date": "2026-11-13",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on iss",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
@@ -108,36 +138,6 @@
       "summaryEn": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and",
       "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：模型能力与API应用",
-      "titleEn": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "date": "2026-11-10",
-      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this part",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：模型能力与API应用",
-      "titleEn": "Google Cloud launches Gemini for healthcare.",
-      "date": "2026-11-10",
-      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Helping caregivers use AI in everyday life",
-      "date": "2026-11-10",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for ev",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "image": "public/assets/images/news-openai.jpg"
     }
   ]
 }
