@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:34:50.767Z",
+  "generatedAt": "2026-11-16T03:34:19.680Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "date": "2026-11-16",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and develo",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "A step toward defining the Standard Model on a lattice",
+      "date": "2026-11-15",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：AI产业动态",
+      "titleEn": "Our new blog for science",
+      "date": "2026-11-15",
+      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific disco",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：智能体与企业工作流",
@@ -108,36 +138,6 @@
       "summaryEn": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for you",
       "url": "https://openai.com/index/children-first-declaration",
       "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：模型能力与API应用",
-      "titleEn": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "date": "2026-11-11",
-      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "image": "public/assets/images/news-google.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "ChatGPT Plus for veterans and servicemembers",
-      "date": "2026-11-11",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civ",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：机器人与自动化",
-      "titleEn": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "date": "2026-11-11",
-      "summary": "NVIDIA 发布与「机器人与自动化」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousan",
-      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png"
     }
   ]
 }
