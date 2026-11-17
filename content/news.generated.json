@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:34:19.680Z",
+  "generatedAt": "2026-11-17T05:31:32.466Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -21,122 +21,122 @@
   "items": [
     {
       "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
-      "titleEn": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
       "date": "2026-11-16",
-      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and develo",
-      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-day-seoul-wrapup-1920x1080-1.jpg"
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the",
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/IMG_9825-1-scaled.jpeg"
     },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "A step toward defining the Standard Model on a lattice",
-      "date": "2026-11-15",
+      "titleEn": "Broadening access to AI for scientists",
+      "date": "2026-11-16",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Our new blog for science",
-      "date": "2026-11-15",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific disco",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "Introducing ChatGPT Wallet",
-      "date": "2026-11-13",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing c",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summaryEn": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
       "source": "NVIDIA Blog",
-      "title": "NVIDIA AI 最新动态：AI产业动态",
-      "titleEn": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "date": "2026-11-13",
-      "summary": "NVIDIA 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health sy",
-      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png"
+      "title": "NVIDIA AI 最新动态：模型能力与API应用",
+      "titleEn": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "date": "2026-11-16",
+      "summary": "NVIDIA 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling ",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ethernet-lambda-blog-1920x1080-1.jpeg"
     },
     {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "date": "2026-11-13",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on iss",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "image": "public/assets/images/news-openai.jpg"
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "date": "2026-11-16",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, po",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png"
     },
     {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "date": "2026-11-12",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding ",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "image": "public/assets/images/news-openai.jpg"
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "date": "2026-11-16",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accel",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376.jpg"
     },
     {
-      "source": "Google AI",
-      "title": "Google AI 最新动态：模型能力与API应用",
-      "titleEn": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "date": "2026-11-12",
-      "summary": "Google AI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：算力基础设施",
+      "titleEn": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "date": "2026-11-16",
+      "summary": "NVIDIA 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/cuda-at-20-1920x1080-1.jpg"
     },
     {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：智能体与企业工作流",
-      "titleEn": "From AI ambition to business impact",
-      "date": "2026-11-12",
-      "summary": "Microsoft AI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The post Fro",
-      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
-      "image": "public/assets/images/news-microsoft.jpg"
-    },
-    {
-      "source": "Microsoft AI",
-      "title": "Microsoft AI 最新动态：算力基础设施",
-      "titleEn": "Scaling AI value without losing control: Lessons from Frontier Firms",
-      "date": "2026-11-12",
-      "summary": "Microsoft AI 发布与「算力基础设施」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to exp",
-      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
-      "image": "public/assets/images/news-microsoft.jpg"
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA AI 最新动态：智能体与企业工作流",
+      "titleEn": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "date": "2026-11-16",
+      "summary": "NVIDIA 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processi",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg"
     },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Gondola doubles revenue as its team builds more with Codex",
-      "date": "2026-11-12",
+      "titleEn": "Science at the Frontier: How scientists use ChatGPT",
+      "date": "2026-11-16",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "url": "https://openai.com/business/customer-stories/gondola",
+      "summaryEn": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for",
+      "url": "https://openai.com/index/science-at-the-frontier",
       "image": "public/assets/images/news-openai.jpg"
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：AI产业动态",
-      "titleEn": "Supporting research on AI and children’s safety",
-      "date": "2026-11-12",
-      "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for you",
-      "url": "https://openai.com/index/children-first-declaration",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "date": "2026-11-16",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through Chat",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Our first phase of embedded assessments",
+      "date": "2026-11-16",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safegu",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "Advancing computer-use agents for healthcare teams",
+      "date": "2026-11-16",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：智能体与企业工作流",
+      "titleEn": "More ways to move care forward with ChatGPT for Healthcare",
+      "date": "2026-11-16",
+      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
