@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T04:41:37.040Z",
+  "generatedAt": "2026-11-21T04:36:58.108Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,36 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Combatting adversarial distillation",
+      "date": "2026-11-20",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against cap",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "date": "2026-11-20",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and present",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "image": "public/assets/images/news-openai.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Can AI help scientists identify promising drug candidates?",
+      "date": "2026-11-20",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early d",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "Google AI",
       "title": "Google AI 最新动态：智能体与企业工作流",
@@ -101,42 +131,12 @@
     },
     {
       "source": "OpenAI",
-      "title": "OpenAI 最新动态：智能体与企业工作流",
-      "titleEn": "Research acceleration: The jagged frontier",
-      "date": "2026-11-18",
-      "summary": "OpenAI 发布与「智能体与企业工作流」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursiv",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
       "titleEn": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "date": "2026-11-18",
       "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executiv",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Managing frontier AI risk: From training to deployment",
-      "date": "2026-11-18",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and ",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "Advancing chip design with OpenAI models",
-      "date": "2026-11-18",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
