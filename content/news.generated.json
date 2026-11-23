@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T03:51:16.141Z",
+  "generatedAt": "2026-11-23T04:29:44.612Z",
   "sources": [
     {
       "source": "OpenAI",
@@ -19,6 +19,16 @@
     }
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI 最新动态：模型能力与API应用",
+      "titleEn": "Perplexity and Intelligence",
+      "date": "2026-11-22",
+      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
+      "summaryEn": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilit",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "image": "public/assets/images/news-openai.jpg"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI 最新动态：模型能力与API应用",
@@ -127,16 +137,6 @@
       "summary": "OpenAI 发布与「AI产业动态」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
       "summaryEn": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of thei",
       "url": "https://openai.com/index/the-silent-consensus",
-      "image": "public/assets/images/news-openai.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI 最新动态：模型能力与API应用",
-      "titleEn": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "date": "2026-11-18",
-      "summary": "OpenAI 发布与「模型能力与API应用」相关的新进展。对企业客户的价值在于：判断AI能力如何进入产品、流程、内容生产和经营决策，而不是停留在工具尝鲜。",
-      "summaryEn": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executiv",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "image": "public/assets/images/news-openai.jpg"
     }
   ]
